@@ -1,5 +1,5 @@
 {
-  "0": {"max": 195},
+  "0": {"max": 194},
   "1": { "thema": "GRUNDLAGEN", "frage": "Wie lautet das Ohmsche Gesetz in seiner Grundform?", "antwort": "U = R * I" },
   "2": { "thema": "GRUNDLAGEN", "frage": "In welcher Einheit wird die elektrische Leistung gemessen?", "antwort": "Watt (W)" },
   "3": { "thema": "GRUNDLAGEN", "frage": "Was besagt die 1. Kirchhoffsche Regel (Knotenpunktregel)?", "antwort": "Summe der zu- und abfliessenden Stroeme ist Null." },
@@ -193,7 +193,5 @@
   "191": { "thema": "BAUTEILE", "frage": "Welche Diode aendert ihre Kapazitaet in Abhaengigkeit von der anliegenden Sperrspannung?", "antwort": "Kapazitaetsdiode (Varaktor)." },
   "192": { "thema": "BAUTEILE", "frage": "Was versteht man unter der Sperrschichttemperatur bei Halbleiterbauteilen?", "antwort": "Die Temperatur im inneren aktiven Bereich des Halbleiterkristalls." },
   "193": { "thema": "SCHUTZMASSNAHMEN", "frage": "Welche Schutzklasse beschreibt elektrische Geraete mit einem Schutzleiteranschluss (PE)?", "antwort": "Schutzklasse I." },
-  "194": { "thema": "SCHUTZMASSNAHMEN", "frage": "Welches grafische Symbol kennzeichnet elektrische Geraete der Schutzklasse II (Schutzisolierung)?", "antwort": "Zwei ineinanderliegende Quadrate." },
-  "195": { "thema": "SCHUTZMASSNAHMEN", "frage": "Mit welcher Spannungsart arbeiten Geraete der Schutzklasse III (Schutzkleinspannung)?", "antwort": "Mit SELV oder PELV (Sicherheitskleinspannung)." }
-  
+  "194": { "thema": "SCHUTZMASSNAHMEN", "frage": "Welches grafische Symbol kennzeichnet elektrische Geraete der Schutzklasse II (Schutzisolierung)?", "antwort": "Zwei ineinanderliegende Quadrate." }
 }
