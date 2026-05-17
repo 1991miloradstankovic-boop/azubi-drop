@@ -4,5 +4,5 @@
   "2": { "thema": "GRUNDLAGEN", "frage": "In welcher Einheit wird die elektrische Leistung gemessen?", "antwort": "Watt (W)" },
   "3": { "thema": "GRUNDLAGEN", "frage": "Was besagt die 1. Kirchhoffsche Regel (Knotenpunktregel)?", "antwort": "Summe der zu- und abfliessenden Stroeme ist Null." },
   "4": { "thema": "GRUNDLAGEN", "frage": "Was besagt die 2. Kirchhoffsche Regel (Maschenregel)?", "antwort": "Die Summe aller Spannungen in einer Masche ist Null." },
-  "5": { "thema": "GRUNDLAGEN", "frage": "Welches Formelzeichen steht fuer die elektrische Ladung?", "antwort": "Q (in Coulomb)" },
+  "5": { "thema": "GRUNDLAGEN", "frage": "Welches Formelzeichen steht fuer die elektrische Ladung?", "antwort": "Q (in Coulomb)" }
   }
