@@ -1,0 +1,23 @@
+{
+  "0": { "max": 20 },
+  "1": { "thema": "UNSERE IDENTITAET", "frage": "Wie hiess unser Unternehmen in Karlsfeld frueher, bevor wir uebernommen wurden?", "antwort": "Lacon Electronic GmbH." },
+  "2": { "thema": "UNSERE IDENTITAET", "frage": "Zu welchem global agierenden Konzern gehoert unser Unternehmen seit Anfang 2026?", "antwort": "Zur Incap Corporation." },
+  "3": { "thema": "UNSERE IDENTITAET", "frage": "Wie lautet unser Leitsatz und Versprechen an den Kunden?", "antwort": "'Electronics with Your Name'." },
+  "4": { "thema": "STANDORTE", "frage": "Wo befindet sich der Hauptsitz der Incap Electronics Germany GmbH?", "antwort": "In der Hertzstrasse 2 in Karlsfeld." },
+  "5": { "thema": "STANDORTE", "frage": "In welcher Nachbargemeinde von Dachau befindet sich unser Stammwerk?", "antwort": "In Karlsfeld." },
+  "6": { "thema": "STANDORTE", "frage": "Welches europaeische Land beheimatet den Hauptsitz der globalen Incap Corporation?", "antwort": "Finnland (gelistet an der Boerse in Helsinki)." },
+  "7": { "thema": "STANDORTE", "frage": "In welcher rumaenischen Stadt betreiben wir einen grossen Entwicklungs- und Produktionsstandort?", "antwort": "In Galati." },
+  "8": { "thema": "STANDORTE", "frage": "Welche beiden anderen Produktionsstandorte haben wir in Deutschland neben Karlsfeld?", "antwort": "Boxberg und Glinde." },
+  "9": { "thema": "MANAGEMENT", "frage": "Wie heisst der Geschaeftsfuehrer (Managing Director) der Incap Electronics Germany GmbH?", "antwort": "Dr. Ralf Hasler." },
+  "10": { "thema": "MANAGEMENT", "frage": "Wer ist der globale President & CEO der Incap Corporation?", "antwort": "Otto Pukk." },
+  "11": { "thema": "KERNKOMPETENZEN", "frage": "Was bedeutet die Abkuerzung EMS in unserer Branche?", "antwort": "Electronic Manufacturing Services." },
+  "12": { "thema": "KERNKOMPETENZEN", "frage": "Was bedeutet die Abkuerzung ODM?", "antwort": "Original Design Manufacturer." },
+  "13": { "thema": "KERNKOMPETENZEN", "frage": "Was versteht man unter unserem 360-Grad-Kompetenzcluster?", "antwort": "Wir begleiten Produkte von der allerersten Idee bis zur Serienreife und Auslieferung." },
+  "14": { "thema": "KERNKOMPETENZEN", "frage": "Bieten wir neben der Leiterplattenbestueckung (SMD) auch Kabelkonfektionierung an?", "antwort": "Ja, wir fertigen auch komplexe Kabelbaeume in grossen Volumina." },
+  "15": { "thema": "KERNKOMPETENZEN", "frage": "Bauen wir nur Einzelteile oder auch fertige Geraete?", "antwort": "Wir bieten den kompletten Geraete- und Systembau an (inklusive Schaltschrankbau)." },
+  "16": { "thema": "SPEZIALBEREICHE", "frage": "In welchen stark wachsenden Branchen sind wir besonders erfolgreich vertreten?", "antwort": "Medizintechnik, Bahntechnik und Defense (Ruestung)." },
+  "17": { "thema": "SPEZIALBEREICHE", "frage": "Welche Eigenmarke kuemmert sich bei uns im Haus um den Vertrieb von Steckverbindern?", "antwort": "Die Marke 'Euroconnectors'." },
+  "18": { "thema": "ZAHLEN & FAKTEN", "frage": "In welchem Quartal des Jahres 2026 wurde die Uebernahme der Lacon durch Incap offiziell abgeschlossen?", "antwort": "Im ersten Quartal (Februar 2026)." },
+  "19": { "thema": "ZAHLEN & FAKTEN", "frage": "Wie viele Mitarbeiter beschaeftigt die Incap Corporation weltweit in etwa?", "antwort": "Rund 2.500 Mitarbeiter an diversen globalen Standorten." },
+  "20": { "thema": "ZAHLEN & FAKTEN", "frage": "Neben Europa haben wir auch Standorte in Uebersee. Welche Kontinente sind das?", "antwort": "Nordamerika (USA) und Asien (Indien, Hong Kong)." }
+}
