@@ -1,5 +1,5 @@
 {
-  "0": {"max": 170},
+  "0": {"max": 200},
   "1": { "thema": "GRUNDLAGEN", "frage": "Wie lautet das Ohmsche Gesetz in seiner Grundform?", "antwort": "U = R * I" },
   "2": { "thema": "GRUNDLAGEN", "frage": "In welcher Einheit wird die elektrische Leistung gemessen?", "antwort": "Watt (W)" },
   "3": { "thema": "GRUNDLAGEN", "frage": "Was besagt die 1. Kirchhoffsche Regel (Knotenpunktregel)?", "antwort": "Summe der zu- und abfliessenden Stroeme ist Null." },
