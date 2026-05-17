@@ -190,5 +190,4 @@
   "188": { "thema": "MESSTECHNIK", "frage": "Welche wichtigste Eigenschaft muss ein Shunt-Widerstand aufweisen?", "antwort": "Einen extrem kleinen und temperaturstabilen Praezisions-Widerstandswert." },
   "189": { "thema": "DIGITALTECHNIK", "frage": "Was versteht man unter einem Open-Collector-Ausgang?", "antwort": "Ein Ausgang, der aktiv nur nach Masse (GND) schalten kann." },
   "190": { "thema": "DIGITALTECHNIK", "frage": "Welcher externe Widerstand wird benoetigt, um einen Open-Collector-Ausgang auf High-Pegel zu ziehen?", "antwort": "Pull-Up-Widerstand." }
-
 }
