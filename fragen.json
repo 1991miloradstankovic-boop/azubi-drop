@@ -100,4 +100,4 @@
   "98": { "thema": "SPEZIALFRAGEN", "frage": "Welche Verlustleistung entsteht grob an einem linearen Spannungsregler (z.B. 7805)?", "antwort": "P_verlust = (U_in - U_out) * I_last." },
   "99": { "thema": "SPEZIALFRAGEN", "frage": "Warum pfeifen manche Netzteile hoerbar unter Last?", "antwort": "Spulen oder Trafos schwingen mechanisch aufgrund von Magnetostriktion im hoerbaren Frequenzbereich." },
   "100": { "thema": "SPEZIALFRAGEN", "frage": "Was ist die Hauptfunktion eines Optokopplers?", "antwort": "Galvanische Trennung bei gleichzeitiger Uebertragung von digitalen oder analogen Signalen per Licht." }
-}
+  }
