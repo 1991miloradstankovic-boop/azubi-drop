@@ -136,7 +136,7 @@
   "134": { "thema": "SCHUTZMASSNAHMEN", "frage": "Wie hoch ist die maximal zulaessige Beruehrungsspannung bei Gleichspannung fuer Erwachsene?", "antwort": "120 Volt DC." },
   "135": { "thema": "BAUTEILE", "frage": "Aus welchen drei Anschluessen besteht ein klassischer Bipolartransistor?", "antwort": "Basis, Kollektor, Emitter." },
   "136": { "thema": "BAUTEILE", "frage": "Wie heissen die drei Anschluesse eines Unipolartransistors (FET)?", "antwort": "Gate, Source, Drain." },
-  "137": { "thema": "BAUTEILE", "frage": "Welche elektrotechnische Aufgabe hat ein Transformator?", "snantwort": "Wechselspannungen und Wechselstroeme transformieren." },
+  "137": { "thema": "BAUTEILE", "frage": "Welche elektrotechnische Aufgabe hat ein Transformator?", "antwort": "Wechselspannungen und Wechselstroeme transformieren." },
   "138": { "thema": "BAUTEILE", "frage": "Auf welchem physikalischen Prinzip basiert die Funktion eines Transformators?", "antwort": "Elektromagnetische Induktion." },
   "139": { "thema": "WECHSELSTROM", "frage": "Wie lautet die Einheit der elektrischen Scheinleistung S?", "antwort": "Voltampere (VA)." },
   "140": { "thema": "WECHSELSTROM", "frage": "Wie lautet die Einheit der elektrischen Wirkleistung P?", "antwort": "Watt (W)." },
