@@ -40,7 +40,7 @@
   "38": {"thema": "OP-VERSTAERKER", "frage": "Was bewirkt eine Mitkopplung (Schmitt-Trigger)?", "antwort": "Sie erzeugt eine Hysterese und verhindert unsauberes Schalten bei verrauschten Signalen." },
   "39": {"thema": "OP-VERSTAERKER", "frage": "Was ist die Offsetspannung eines realen Operationsverstaerkers?", "antwort": "Die geringe Fehlspannung am Ausgang, obwohl beide Eingaenge auf 0V liegen." },
   "40": {"thema": "OP-VERSTAERKER", "frage": "Wofuer dient ein Impedanzwandler (Spannungsfolger) auf Basis eines OPVs?", "antwort": "Zur Entkopplung hochohmiger Signalquellen von niederohmigen Lasten." },
-  "41": {"thema": "VDE & SICHERHEIT", "frage": "Ab welcher Berührungsspannung gelten Wechselspannungen unter normalen Umgebungsbedingungen als potenziell gefährlich?", "antwort": "Ab 50V AC (bzw. 120V DC)." },
+  "41": {"thema": "VDE & SICHERHEIT", "frage": "Ab welcher Beruehrungsspannung gelten Wechselspannungen unter normalen Umgebungsbedingungen als potenziell gefaehrlich?", "antwort": "Ab 50V AC (bzw. 120V DC)." },
   "42": {"thema": "VDE & SICHERHEIT", "frage": "Wie lautet die 1. der fuenf Sicherheitsregeln?", "antwort": "Freischalten." },
   "43": {"thema": "VDE & SICHERHEIT", "frage": "Wie lautet die 2. der fuenf Sicherheitsregeln?", "antwort": "Gegen Wiedereinschalten sichern." },
   "44": {"thema": "VDE & SICHERHEIT", "frage": "Wie lautet die 3. der fuenf Sicherheitsregeln?", "antwort": "Spannungsfreiheit allpolig feststellen." },
@@ -54,11 +54,11 @@
   "52": {"thema": "VDE & SICHERHEIT", "frage": "Was ist der Unterschied zwischen Schutztrennung und Kleinspannung (SELV)?", "antwort": "SELV begrenzt die Spannung (<50V AC), Schutztrennung isoliert galvanisch bei 230V." },
   "53": {"thema": "VDE & SICHERHEIT", "frage": "Wofuer steht die Abkuerzung ESD in der Elektronikwerkstatt?", "antwort": "Electrostatic Discharge (Elektrostatische Entladung)." },
   "54": {"thema": "VDE & SICHERHEIT", "frage": "Warum sollte man beim Testen von unbekannten Platinen eine Strombegrenzung am Netzteil einstellen?", "antwort": "Um Bauteile bei einem versteckten Kurzschluss vor Zerstoerung zu schuetzen." },
-  "55": {"thema": "VDE & SICHERHEIT", "frage": "Darf ein gruen-gelber Draht als geschaltete Ader für eine Lampe missbraucht werden?", "antwort": "Nein, absolut niemals. Lebensgefahr." },
+  "55": {"thema": "VDE & SICHERHEIT", "frage": "Darf ein gruen-gelber Draht als geschaltete Ader fuer eine Lampe missbraucht werden?", "antwort": "Nein, absolut niemals. Lebensgefahr." },
   "56": {"thema": "VDE & SICHERHEIT", "frage": "Was prueft man bei der Messung des Isolationswiderstands nach VDE 0701-0702?", "antwort": "Dass kein gefaehrlicher Leckstrom vom Aussenleiter zum Schutzgehaeuse fliessen kann." },
   "57": {"thema": "VDE & SICHERHEIT", "frage": "Mit welcher Spannung wird der Isolationswiderstand ueblicherweise geprueft?", "antwort": "Mit 500V Gleichspannung." },
   "58": {"thema": "VDE & SICHERHEIT", "frage": "Was ist die Hauptgefahr bei einem Lichtbogen?", "antwort": "Extreme Hitze (bis zu 10.000 Grad), Verbrennungen und Verblitzung der Augen." },
-  "59": {"thema": "VDE & SICHERHEIT", "frage": "Wer darf nach Durchführung der vorgeschriebenen Prüfungen die Spannungsfreiheit feststellen?", "antwort": "Eine Elektrofachkraft unter Verwendung eines geeigneten zweipoligen Spannungsprüfers." },
+  "59": {"thema": "VDE & SICHERHEIT", "frage": "Wer darf nach Durchfuehrung der vorgeschriebenen Pruefungen die Spannungsfreiheit feststellen?", "antwort": "Eine Elektrofachkraft unter Verwendung eines geeigneten zweipoligen Spannungspruefers." },
   "60": {"thema": "VDE & SICHERHEIT", "frage": "Was bedeutet die Schutzklasse II bei elektrischen Arbeitsmitteln?", "antwort": "Doppelte oder verstaerkte Isolierung (kein Schutzleiteranschluss noetig)." },
   "61": {"thema": "DIGITALTECHNIK", "frage": "Wie viele Zustaende kennt ein einzelnes Bit?", "antwort": "Zwei (0 und 1 / Low und High)." },
   "62": {"thema": "DIGITALTECHNIK", "frage": "Wie viele verschiedene Werte lassen sich mit einem Byte (8 Bit) darstellen?", "antwort": "256 Werte (0 bis 255)." },
@@ -171,7 +171,7 @@
   "169": {"thema": "STROMVERSORGUNG", "frage": "Welche Aufgabe hat ein Gleichrichter in einer Netzteilschaltung?", "antwort": "Wechselspannung in eine pulsierende Gleichspannung umwandeln." },
   "170": {"thema": "STROMVERSORGUNG", "frage": "Aus wie vielen Dioden besteht eine klassische Graetz-Brueckengleichrichterschaltung?", "antwort": "Aus vier Dioden." },
   "171": {"thema": "STROMVERSORGUNG", "frage": "Welches elektronische Bauteil wird standardmaessig zur Glaettung nach einer Gleichrichtung eingesetzt?", "antwort": "Ein Kondensator (meist ein Elektrolytkondensator)." },
-  "172": {"thema": "STROMVERSORGUNG", "frage": "Was ist der Hauptvorteil eines Schaltnetzteils gegenüber einem konventionellen Linearnetzteil?", "antwort": "Ein deutlich hoeherer Wirkungsgrad und geringeres Gewicht." },
+  "172": {"thema": "STROMVERSORGUNG", "frage": "Was ist der Hauptvorteil eines Schaltnetzteils gegenueber einem konventionellen Linearnetzteil?", "antwort": "Ein deutlich hoeherer Wirkungsgrad und geringeres Gewicht." },
   "173": {"thema": "BAUTEILE", "frage": "Welches Bauteil schuetzt vor Spannungsspitzen, indem es bei hoher Spannung schlagartig leitend wird?", "antwort": "Varistor (VDR)." },
   "174": {"thema": "BAUTEILE", "frage": "Welches Bauteil uebertraegt Signale optisch und trennt dabei zwei Stromkreise galvanisch?", "antwort": "Optokoppler." },
   "175": {"thema": "GRUNDLAGEN", "frage": "Was gibt der Wirkungsgrad (Formelzeichen eta) eines elektrischen Geraetes an?", "antwort": "Das Verhaeltnis von abgegebener Leistung zu zugefuehrter Leistung." },
@@ -180,7 +180,7 @@
   "178": {"thema": "GRUNDLAGEN", "frage": "Wie lautet die physikalische Formel zur Berechnung der elektrischen Arbeit W?", "antwort": "W = P * t (Leistung mal Zeit)." },
   "179": {"thema": "GRUNDLAGEN", "frage": "In welcher Einheit wird die elektrische Arbeit standardmaessig auf der Stromabrechnung angegeben?", "antwort": "Kilowattstunde (kWh)." },
   "180": {"thema": "BAUTEILE", "frage": "Wie verhaelt sich die Gesamtkapazitaet von zwei in Reihe geschalteten Kondensatoren?", "antwort": "Die Gesamtkapazitaet ist kleiner als die kleinste Einzelkapazitaet." },
-  "181": {"thema": "BAUTEILE", "frage": "Wie berechnet sich der Gesamtwiderstand zweier parallel geschalteter Widerstände?", "antwort": "Rges = (R1 * R2) / (R1 + R2)" },
+  "181": {"thema": "BAUTEILE", "frage": "Wie berechnet sich der Gesamtwiderstand zweier parallel geschalteter Widerstaende?", "antwort": "Rges = (R1 * R2) / (R1 + R2)" },
   "182": {"thema": "FERTIGUNG", "frage": "Welcher Bleigehalt ist laut RoHS-Richtlinie in Standard-Loetzinn fuer kommerzielle Produkte maximal zulaessig?", "antwort": "Maximal 0,1 Prozent (bleifreies Loeten)." },
   "183": {"thema": "FERTIGUNG", "frage": "Welche drei Legierungskomponenten bilden das klassische bleifreie Loetzinn (SAC)?", "antwort": "Zinn, Silber und Kupfer (SnAgCu)." },
   "184": {"thema": "FERTIGUNG", "frage": "Welche chemische Aufgabe hat das Flussmittel beim Loetvorgang?", "antwort": "Es verhindert die Oxidation der Metalloberflaechen waehrend des Erwaermens." },
@@ -300,4 +300,5 @@
   "298": {"thema": "SENSOREN", "frage": "Wozu verwendet man einen Dehnungsmessstreifen (DMS)?", "antwort": "Zur Messung von mechanischer Verformung, Kraft oder Gewicht (z. B. in einer Waage)." },
   "299": {"thema": "SENSOREN", "frage": "Was misst ein optischer Inkrementalgeber?", "antwort": "Winkelveraenderungen, Drehrichtung und Drehzahl anhand von optisch abgetasteten Strichen auf einer Scheibe." },
   "300": {"thema": "SENSOREN", "frage": "Wie misst ein Ultraschallsensor Abstaende?", "antwort": "Ueber die Laufzeitmessung (Time of Flight) eines ausgesandten und reflektierten Schallimpulses." }
-}
+  }
+
