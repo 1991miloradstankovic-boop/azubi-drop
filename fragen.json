@@ -1,5 +1,5 @@
 {
-  "0": {"max": 180},
+  "0": {"max": 170},
   "1": { "thema": "GRUNDLAGEN", "frage": "Wie lautet das Ohmsche Gesetz in seiner Grundform?", "antwort": "U = R * I" },
   "2": { "thema": "GRUNDLAGEN", "frage": "In welcher Einheit wird die elektrische Leistung gemessen?", "antwort": "Watt (W)" },
   "3": { "thema": "GRUNDLAGEN", "frage": "Was besagt die 1. Kirchhoffsche Regel (Knotenpunktregel)?", "antwort": "Summe der zu- und abfliessenden Stroeme ist Null." },
@@ -169,15 +169,5 @@
   "167": { "thema": "BAUTEILE", "frage": "Wie hoch ist der Eingangswiderstand eines idealen Operationsverstaerkers?", "antwort": "Unendlich gross." },
   "168": { "thema": "BAUTEILE", "frage": "Wie hoch ist der Ausgangswiderstand eines idealen Operationsverstaerkers?", "antwort": "Null Ohm." },
   "169": { "thema": "STROMVERSORGUNG", "frage": "Welche Aufgabe hat ein Gleichrichter in einer Netzteilschaltung?", "antwort": "Wechselspannung in eine pulsierende Gleichspannung umwandeln." },
-  "170": { "thema": "STROMVERSORGUNG", "frage": "Aus wie vielen Dioden besteht eine klassische Graetz-Brueckengleichrichterschaltung?", "antwort": "Aus vier Dioden." },
-  "171": { "thema": "STROMVERSORGUNG", "frage": "Welches elektronische Bauteil wird standardmaessig zur Glaettung nach einer Gleichrichtung eingesetzt?", "antwort": "Ein Kondensator (meist ein Elektrolytkondensator)." },
-  "172": { "thema": "STROMVERSORGUNG", "frage": "Was ist der Hauptvorteil eines Schaltnetzteils gegenüber einem konventionellen Linearnetzteil?", "antwort": "Ein deutlich hoeherer Wirkungsgrad und geringeres Gewicht." },
-  "173": { "thema": "BAUTEILE", "frage": "Welches Bauteil schuetzt vor Spannungsspitzen, indem es bei hoher Spannung schlagartig leitend wird?", "antwort": "Varistor (VDR)." },
-  "174": { "thema": "BAUTEILE", "frage": "Welches Bauteil uebertraegt Signale optisch und trennt dabei zwei Stromkreise galvanisch?", "antwort": "Optokoppler." },
-  "175": { "thema": "GRUNDLAGEN", "frage": "Was gibt der Wirkungsgrad (Formelzeichen eta) eines elektrischen Geraetes an?", "antwort": "Das Verhaeltnis von abgegebener Leistung zu zugefuehrter Leistung." },
-  "176": { "thema": "GRUNDLAGEN", "frage": "Kann der Wirkungsgrad einer realen elektrischen Maschine jemals groesser als 1 sein?", "antwort": "Nein, er ist durch Verluste immer kleiner als 1." },
-  "177": { "thema": "GRUNDLAGEN", "frage": "In welche Energieform wird die Verlustleistung in der Elektronik fast immer umgewandelt?", "antwort": "In Waermeenergie." },
-  "178": { "thema": "GRUNDLAGEN", "frage": "Wie lautet die physikalische Formel zur Berechnung der elektrischen Arbeit W?", "antwort": "W = P * t (Leistung mal Zeit)." },
-  "179": { "thema": "GRUNDLAGEN", "frage": "In welcher Einheit wird die elektrische Arbeit standardmaessig auf der Stromabrechnung angegeben?", "antwort": "Kilowattstunde (kWh)." },
-  "180": { "thema": "BAUTEILE", "frage": "Wie verhaelt sich die Gesamtkapazitaet von zwei in Reihe geschalteten Kondensatoren?", "antwort": "Die Gesamtkapazitaet ist kleiner als die kleinste Einzelkapazitaet." }
+  "170": { "thema": "STROMVERSORGUNG", "frage": "Aus wie vielen Dioden besteht eine klassische Graetz-Brueckengleichrichterschaltung?", "antwort": "Aus vier Dioden." }
 }
