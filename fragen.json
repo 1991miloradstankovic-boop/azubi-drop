@@ -199,5 +199,5 @@
   "197": { "thema": "GRUNDLAGEN", "frage": "Wie viel Prozent betraegt die zulaessige Toleranz bei einem Widerstand mit goldenem Toleranzring?", "antwort": "5 Prozent Toleranz." },
   "198": { "thema": "GRUNDLAGEN", "frage": "Welche Farbe steht beim Farbcode von Widerstaenden fuer den Ziffernwert 0?", "antwort": "Die Farbe Schwarz." },
   "199": { "thema": "GRUNDLAGEN", "frage": "Welche Farbe steht beim Farbcode von Widerstaenden fuer den Ziffernwert 2?", "antwort": "Die Farbe Rot." },
-  "200": { "thema": "GRUNDLAGEN", "frage": "Wie lautet die offizielle SI-Einheit der elektrischen Ladung Q?", "antwort": "Coulomb (oder Amperesekunde, As)." }
-}
+  "200": { "thema": "GRUNDLAGEN", "frage": "Wie lautet die offizielle SI-Einheit der elektrischen Ladung Q?", "antwort": "Coulomb (oder Amperesekunde, As)."}
+  }
