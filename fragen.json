@@ -227,7 +227,6 @@
     "D": "Die Messkabel koennten schmelzen.",
     "loesung": "B"
   },
-  {
   "26": {
     "thema": "MESSTECHNIK",
     "frage": "Was misst ein Oszilloskop im XY-Betrieb?",
@@ -453,7 +452,6 @@
     "D": "Typ F.",
     "loesung": "C"
   },
-  {
   "51": {
     "thema": "VDE & SICHERHEIT",
     "frage": "Welches Schutzorgan schuetzt die Leitung vor Ueberlast und Kurzschluss?",
@@ -679,7 +677,6 @@
     "D": "Synchronous Clear.",
     "loesung": "B"
   },
-  {
   "76": {
     "thema": "MIKROCONTROLLER",
     "frage": "Wie viele Leitungen benoetigt der SPI-Bus grundsaetzlich zur Kommunikation?",
@@ -905,7 +902,6 @@
     "D": "Das Schalten von hohen Wechselstromlasten mittels Laser.",
     "loesung": "B"
   },
-  {
   "101": {
     "thema": "SCHUTZMASSNAHMEN",
     "frage": "Wie lautet die erste der 5 Sicherheitsregeln der Elektrotechnik?",
@@ -1131,7 +1127,6 @@
     "D": "Ampere (A).",
     "loesung": "D"
   },
-  {
   "126": {
     "thema": "GRUNDLAGEN",
     "frage": "Wie lautet die physikalische Einheit der elektrischen Spannung?",
@@ -1357,7 +1352,6 @@
     "D": "Metall-Flansch.",
     "loesung": "C"
   },
-  {
   "151": {
     "thema": "GRUNDLAGEN",
     "frage": "Wie lautet das physikalische Formelzeichen der elektrischen Feldstaerke?",
@@ -1583,7 +1577,6 @@
     "D": "Den Anteil der Wirkleistung an der Scheinleistung.",
     "loesung": "B"
   },
-  {
   "176": {
     "thema": "GRUNDLAGEN",
     "frage": "Kann der Wirkungsgrad einer realen elektrischen Maschine jemals groesser als 1 (oder 100%) sein?",
@@ -1809,7 +1802,6 @@
     "D": "Joule (J).",
     "loesung": "C"
   },
-  {
   "201": {
     "thema": "GRUNDLAGEN",
     "frage": "Was gibt der spezifische Widerstand eines Materials an?",
