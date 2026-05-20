@@ -1673,7 +1673,7 @@
     "A": "-90 Grad (rein kapazitiv).",
     "B": "+90 Grad (rein induktiv).",
     "C": "0 Grad (rein ohmsches Verhalten).",
-    "D": 180 Grad (Phasenumkehr).",
+    "D": "180 Grad (Phasenumkehr).",
     "loesung": "C"
   },
   "187": {
