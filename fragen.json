@@ -1,6 +1,6 @@
 {
   "0": {
-    "max": 25
+    "max": 225
   },
   "1": {
     "thema": "GRUNDLAGEN",
@@ -227,4 +227,1822 @@
     "D": "Die Messkabel koennten schmelzen.",
     "loesung": "B"
   }
+  {
+  "26": {
+    "thema": "MESSTECHNIK",
+    "frage": "Was misst ein Oszilloskop im XY-Betrieb?",
+    "A": "Den Strom in Abhaengigkeit der Zeit.",
+    "B": "Zwei Spannungen in Abhaengigkeit voneinander (Lissajous-Figuren).",
+    "C": "Die Frequenz in Abhaengigkeit der Phasenverschiebung.",
+    "D": "Die Wirkleistung eines Drehstromnetzes.",
+    "loesung": "B"
+  },
+  "27": {
+    "thema": "MESSTECHNIK",
+    "frage": "Was ist der Effektivwert (RMS) einer Wechselspannung?",
+    "A": "Der Spitzenwert dividiert durch zwei.",
+    "B": "Der Durchschnittswert einer Halbwelle.",
+    "C": "Der Wert einer Gleichspannung, die an einem ohmschen Widerstand die gleiche Waermeleistung erzeugt.",
+    "D": "Der Spannungswert, bei dem Isolationsfehler auftreten.",
+    "loesung": "C"
+  },
+  "28": {
+    "thema": "MESSTECHNIK",
+    "frage": "Mit welchem Faktor berechnet man aus der Spitzenspannung einer Sinuswelle den Effektivwert?",
+    "A": "Ueff = Us / Wurzel(2).",
+    "B": "Ueff = Us * Wurzel(3).",
+    "C": "Ueff = Us / 2.",
+    "D": "Ueff = Us * 1,414.",
+    "loesung": "A"
+  },
+  "29": {
+    "thema": "MESSTECHNIK",
+    "frage": "Wofuer wird eine Wheatstonesche Messbruecke verwendet?",
+    "A": "Zur Messung von sehr hohen Stroemen.",
+    "B": "Zur sehr genauen Messung von unbekannten Widerstaenden.",
+    "C": "Zur Bestimmung des Leistungsfaktors.",
+    "D": "Zur Messung der Isolationsspannung.",
+    "loesung": "B"
+  },
+  "30": {
+    "thema": "MESSTECHNIK",
+    "frage": "Welche Messkategorie (CAT) benoetigt ein Multimeter am Hausanschlusskasten?",
+    "A": "Mindestens CAT I.",
+    "B": "Mindestens CAT II.",
+    "C": "Mindestens CAT III.",
+    "D": "Mindestens CAT IV.",
+    "loesung": "D"
+  },
+  "31": {
+    "thema": "OP-VERSTAERKER",
+    "frage": "Welchen Wert hat der Eingangswiderstand eines idealen Operationsverstaerkers?",
+    "A": "Exakt 0 Ohm.",
+    "B": "Exakt 50 Ohm.",
+    "C": "Unendlich hoch.",
+    "D": "Abhaengig von der Versorgungsspannung.",
+    "loesung": "C"
+  },
+  "32": {
+    "thema": "OP-VERSTAERKER",
+    "frage": "Wie gross ist die Spannungsdifferenz zwischen den beiden Eingaengen (+ und -) im linearen Betrieb?",
+    "A": "Idealerweise null Volt (virtueller Kurzschluss).",
+    "B": "Exakt 5 Volt.",
+    "C": "Sie entspricht der Versorgungsspannung.",
+    "D": "Unendlich hoch.",
+    "loesung": "A"
+  },
+  "33": {
+    "thema": "OP-VERSTAERKER",
+    "frage": "Was bewirkt eine Gegenkopplung beim OPV?",
+    "A": "Sie erhoeht die Verstaerkung auf unendlich.",
+    "B": "Sie verringert die Verstaerkung, erhoeht aber die Stabilitaet und Bandbreite.",
+    "C": "Sie verwandelt den OPV in einen Oszillator.",
+    "D": "Sie reduziert den Eingangswiderstand auf Null.",
+    "loesung": "B"
+  },
+  "34": {
+    "thema": "OP-VERSTAERKER",
+    "frage": "In welcher OPV-Grundschaltung wird das Eingangssignal invertiert?",
+    "A": "Im Nicht-invertierenden Verstaerker.",
+    "B": "Im Spannungsfolger.",
+    "C": "Im Invertierenden Verstaerker.",
+    "D": "Im Schmitt-Trigger.",
+    "loesung": "C"
+  },
+  "35": {
+    "thema": "OP-VERSTAERKER",
+    "frage": "Welche OPV-Schaltung erzeugt aus einer Rechteckspannung eine Dreieckspannung?",
+    "A": "Der Differenzverstaerker.",
+    "B": "Der Differentiator.",
+    "C": "Der Integrator.",
+    "D": "Der Komparator.",
+    "loesung": "C"
+  },
+  "36": {
+    "thema": "OP-VERSTAERKER",
+    "frage": "Was ist die Slew-Rate bei einem OPV?",
+    "A": "Die maximale Spannungsanderungsgeschwindigkeit am Ausgang (V/us).",
+    "B": "Die maximale Stromaufnahme im Leerlauf.",
+    "C": "Die Verzoegerungszeit zwischen den Eingaengen.",
+    "D": "Die Frequenz, bei der die Verstaerkung 1 wird.",
+    "loesung": "A"
+  },
+  "37": {
+    "thema": "OP-VERSTAERKER",
+    "frage": "Was versteht man unter dem Begriff Komparator?",
+    "A": "Ein Bauteil, das Spannungen glaettet.",
+    "B": "Einen OPV ohne Gegenkopplung, der Spannungen vergleicht und voll durchschaltet.",
+    "C": "Eine Schutzschaltung gegen Verpolung.",
+    "D": "Einen Analog-Digital-Wandler.",
+    "loesung": "B"
+  },
+  "38": {
+    "thema": "OP-VERSTAERKER",
+    "frage": "Was bewirkt eine Mitkopplung (Schmitt-Trigger)?",
+    "A": "Sie verhindert das Uebersteuern des Ausgangs.",
+    "B": "Sie erzeugt eine Hysterese und verhindert unsauberes Schalten bei verrauschten Signalen.",
+    "C": "Sie halbiert die Versorgungsspannung.",
+    "D": "Sie erhoeht den Ausgangsstrom massiv.",
+    "loesung": "B"
+  },
+  "39": {
+    "thema": "OP-VERSTAERKER",
+    "frage": "Was ist die Offsetspannung eines realen Operationsverstaerkers?",
+    "A": "Die Betriebsspannung, bei der der OPV zerstoert wird.",
+    "B": "Die geringe Fehlspannung am Ausgang, obwohl beide Eingaenge auf 0V liegen.",
+    "C": "Die maximale Ausgangsspannung (Rail-to-Rail).",
+    "D": "Die Spannungsdifferenz zwischen VCC und GND.",
+    "loesung": "B"
+  },
+  "40": {
+    "thema": "OP-VERSTAERKER",
+    "frage": "Wofuer dient ein Impedanzwandler (Spannungsfolger) auf Basis eines OPVs?",
+    "A": "Zur Uebersetzung von digitalen Pegeln (5V auf 3.3V).",
+    "B": "Zur Erhoehung der Signalspannung um den Faktor 10.",
+    "C": "Zur Entkopplung hochohmiger Signalquellen von niederohmigen Lasten.",
+    "D": "Zur Umwandlung von Gleichstrom in Wechselstrom.",
+    "loesung": "C"
+  },
+  "41": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Ab welcher Beruehrungsspannung gelten Wechselspannungen unter normalen Umgebungsbedingungen als potenziell gefaehrlich?",
+    "A": "Ab 12V AC.",
+    "B": "Ab 24V AC.",
+    "C": "Ab 50V AC.",
+    "D": "Ab 110V AC.",
+    "loesung": "C"
+  },
+  "42": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Wie lautet die 1. der fuenf Sicherheitsregeln?",
+    "A": "Freischalten.",
+    "B": "Erden und Kurzschliessen.",
+    "C": "Gegen Wiedereinschalten sichern.",
+    "D": "Benachbarte Teile abdecken.",
+    "loesung": "A"
+  },
+  "43": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Wie lautet die 2. der fuenf Sicherheitsregeln?",
+    "A": "Freischalten.",
+    "B": "Gegen Wiedereinschalten sichern.",
+    "C": "Spannungsfreiheit allpolig feststellen.",
+    "D": "Erden und Kurzschliessen.",
+    "loesung": "B"
+  },
+  "44": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Wie lautet die 3. der fuenf Sicherheitsregeln?",
+    "A": "Freischalten.",
+    "B": "Gegen Wiedereinschalten sichern.",
+    "C": "Spannungsfreiheit allpolig feststellen.",
+    "D": "Erden und Kurzschliessen.",
+    "loesung": "C"
+  },
+  "45": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Wie lautet die 4. der fuenf Sicherheitsregeln?",
+    "A": "Spannungsfreiheit feststellen.",
+    "B": "Erden und Kurzschliessen (ab 1000V zwingend).",
+    "C": "Gegen Wiedereinschalten sichern.",
+    "D": "Benachbarte Teile abdecken.",
+    "loesung": "B"
+  },
+  "46": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Wie lautet die 5. der fuenf Sicherheitsregeln?",
+    "A": "Spannungsfreiheit feststellen.",
+    "B": "Erden und Kurzschliessen.",
+    "C": "Benachbarte, unter Spannung stehende Teile abdecken/abschranken.",
+    "D": "Schutzkleidung anlegen.",
+    "loesung": "C"
+  },
+  "47": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Welche Farbe hat der Neutralleiter (N) in modernen Festinstallationen?",
+    "A": "Schwarz oder Braun.",
+    "B": "Blau.",
+    "C": "Gruen-Gelb.",
+    "D": "Rot.",
+    "loesung": "B"
+  },
+  "48": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Welche Farbkombination ist streng und exklusiv fuer den Schutzleiter (PE) reserviert?",
+    "A": "Blau-Weiss.",
+    "B": "Schwarz-Rot.",
+    "C": "Gruen-Gelb.",
+    "D": "Braun-Grau.",
+    "loesung": "C"
+  },
+  "49": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Bei welchem Fehlerstrom (I delta N) loest ein handelsueblicher RCD fuer den Personenschutz spaetestens aus?",
+    "A": "Bei 10 mA.",
+    "B": "Bei 30 mA.",
+    "C": "Bei 100 mA.",
+    "D": "Bei 300 mA.",
+    "loesung": "B"
+  },
+  "50": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Welcher Typ RCD ist fuer Anlagen mit moeglichen glatten Gleichfehlerstroemen vorgeschrieben?",
+    "A": "Typ A.",
+    "B": "Typ AC.",
+    "C": "Typ B.",
+    "D": "Typ F.",
+    "loesung": "C"
+  }
+  {
+  "51": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Welches Schutzorgan schuetzt die Leitung vor Ueberlast und Kurzschluss?",
+    "A": "Der Fehlerstrom-Schutzschalter (RCD).",
+    "B": "Der Leitungsschutzschalter (LS-Schalter).",
+    "C": "Das Ueberspannungsschutz-Relais.",
+    "D": "Der Motorschutzschalter.",
+    "loesung": "B"
+  },
+  "52": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Was ist der Unterschied zwischen Schutztrennung und Kleinspannung (SELV)?",
+    "A": "Schutztrennung begrenzt die Spannung, SELV isoliert galvanisch.",
+    "B": "Es gibt keinen Unterschied, beides ist exakt dasselbe.",
+    "C": "SELV begrenzt die Spannung (<50V AC), Schutztrennung isoliert galvanisch bei 230V.",
+    "D": "SELV erfordert zwingend einen Schutzleiter, Schutztrennung nicht.",
+    "loesung": "C"
+  },
+  "53": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Wofuer steht die Abkuerzung ESD in der Elektronikwerkstatt?",
+    "A": "Electronic System Design.",
+    "B": "Emergency Stop Device.",
+    "C": "Energy Saving Directive.",
+    "D": "Electrostatic Discharge (Elektrostatische Entladung).",
+    "loesung": "D"
+  },
+  "54": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Warum sollte man beim Testen von unbekannten Platinen eine Strombegrenzung am Netzteil einstellen?",
+    "A": "Damit die Platine nicht zu schnell hochfaehrt.",
+    "B": "Um Bauteile bei einem versteckten Kurzschluss vor Zerstoerung zu schuetzen.",
+    "C": "Um Stromkosten im Labor zu sparen.",
+    "D": "Damit das Netzteil nicht ueberhitzt.",
+    "loesung": "B"
+  },
+  "55": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Darf ein gruen-gelber Draht als geschaltete Ader fuer eine Lampe missbraucht werden?",
+    "A": "Ja, wenn keine andere Farbe mehr frei ist.",
+    "B": "Ja, aber nur bei Kleinspannungen unter 12V.",
+    "C": "Nein, absolut niemals. Lebensgefahr.",
+    "D": "Ja, wenn beide Enden schwarz markiert werden.",
+    "loesung": "C"
+  },
+  "56": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Was prueft man bei der Messung des Isolationswiderstands nach VDE 0701-0702?",
+    "A": "Dass der Widerstand der Zuleitung moeglichst gering ist.",
+    "B": "Dass kein gefaehrlicher Leckstrom vom Aussenleiter zum Schutzgehaeuse fliessen kann.",
+    "C": "Ob der Schutzleiter durchgaengig ist.",
+    "D": "Ob das Geraet die richtige Nennleistung aufnimmt.",
+    "loesung": "B"
+  },
+  "57": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Mit welcher Spannung wird der Isolationswiderstand ueblicherweise geprueft?",
+    "A": "Mit 230V Wechselspannung.",
+    "B": "Mit 12V Gleichspannung.",
+    "C": "Mit 1000V Wechselspannung.",
+    "D": "Mit 500V Gleichspannung.",
+    "loesung": "D"
+  },
+  "58": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Was ist die Hauptgefahr bei einem Lichtbogen?",
+    "A": "Nur der grelle Lichtblitz.",
+    "B": "Extreme Hitze (bis zu 10.000 Grad), Verbrennungen und Verblitzung der Augen.",
+    "C": "Dass die Sicherung ausloest.",
+    "D": "Es entsteht ein starkes Magnetfeld, das Werkzeuge anzieht.",
+    "loesung": "B"
+  },
+  "59": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Wer darf nach Durchfuehrung der vorgeschriebenen Pruefungen die Spannungsfreiheit feststellen?",
+    "A": "Jeder, der ein Multimeter bedienen kann.",
+    "B": "Eine Elektrofachkraft unter Verwendung eines geeigneten zweipoligen Spannungspruefers.",
+    "C": "Der Bauleiter oder Vorarbeiter.",
+    "D": "Auszubildende im ersten Lehrjahr alleine.",
+    "loesung": "B"
+  },
+  "60": {
+    "thema": "VDE & SICHERHEIT",
+    "frage": "Was bedeutet die Schutzklasse II bei elektrischen Arbeitsmitteln?",
+    "A": "Geraet muss zwingend geerdet werden.",
+    "B": "Betrieb nur ueber Batterien.",
+    "C": "Doppelte oder verstaerkte Isolierung (kein Schutzleiteranschluss noetig).",
+    "D": "Betrieb nur in trockenen Raeumen zulaessig.",
+    "loesung": "C"
+  },
+  "61": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Wie viele Zustaende kennt ein einzelnes Bit?",
+    "A": "Einen (0).",
+    "B": "Zwei (0 und 1 / Low und High).",
+    "C": "Vier (00, 01, 10, 11).",
+    "D": "Acht.",
+    "loesung": "B"
+  },
+  "62": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Wie viele verschiedene Werte lassen sich mit einem Byte (8 Bit) darstellen?",
+    "A": "8 Werte.",
+    "B": "64 Werte.",
+    "C": "256 Werte (0 bis 255).",
+    "D": "1024 Werte.",
+    "loesung": "C"
+  },
+  "63": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Welches Logikgatter gibt nur dann eine 1 aus, wenn BEIDE Eingaenge 1 sind?",
+    "A": "Das ODER-Gatter (OR).",
+    "B": "Der Inverter (NOT).",
+    "C": "Das XOR-Gatter.",
+    "D": "Das UND-Gatter (AND).",
+    "loesung": "D"
+  },
+  "64": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Welches Logikgatter gibt eine 1 aus, sobald MINDESTENS ein Eingang 1 ist?",
+    "A": "Das UND-Gatter (AND).",
+    "B": "Das NAND-Gatter.",
+    "C": "Das ODER-Gatter (OR).",
+    "D": "Das XOR-Gatter.",
+    "loesung": "C"
+  },
+  "65": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Welches Gatter verneint das Eingangssignal?",
+    "A": "Das NOR-Gatter.",
+    "B": "Der Inverter (NOT).",
+    "C": "Das XNOR-Gatter.",
+    "D": "Das Buffer-Gatter.",
+    "loesung": "B"
+  },
+  "66": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Was ist die Besonderheit beim XOR-Gatter (Exklusiv-Oder)?",
+    "A": "Es gibt nur dann eine 1 aus, wenn die Eingaenge unterschiedlich sind.",
+    "B": "Es liefert immer 0, wenn ein Eingang 0 ist.",
+    "C": "Es gibt eine 1 aus, wenn alle Eingaenge gleich sind.",
+    "D": "Es speichert den letzten Zustand.",
+    "loesung": "A"
+  },
+  "67": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Welches Flip-Flop kippt seinen Zustand bei jeder steigenden Taktflanke, wenn der Eingang auf 1 liegt?",
+    "A": "Das D-Flip-Flop.",
+    "B": "Das RS-Flip-Flop.",
+    "C": "Das Toggle-Flip-Flop (T-Flip-Flop).",
+    "D": "Das JK-Flip-Flop.",
+    "loesung": "C"
+  },
+  "68": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Wofuer steht die Abkuerzung PWM?",
+    "A": "Pulse Wave Modulation.",
+    "B": "Pulsweitenmodulation.",
+    "C": "Phase Width Measurement.",
+    "D": "Power Window Manager.",
+    "loesung": "B"
+  },
+  "69": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Wie nennt man die Schaltung zum Entprellen von mechanischen Tastern in der Digitaltechnik?",
+    "A": "Monostabile Kippstufe oder RS-Flip-Flop.",
+    "B": "Wheatstonesche Bruecke.",
+    "C": "Impedanzwandler.",
+    "D": "Frequenzteiler.",
+    "loesung": "A"
+  },
+  "70": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Was konvertiert ein ADC (Analog-to-Digital Converter)?",
+    "A": "Digitale Daten in serielle Signale.",
+    "B": "Eine kontinuierliche Spannung in einen diskreten digitalen Zahlenwert.",
+    "C": "Einen digitalen Wert in eine analoge Spannung.",
+    "D": "Wechselstrom in Gleichstrom.",
+    "loesung": "B"
+  },
+  "71": {
+    "thema": "MIKROCONTROLLER",
+    "frage": "Mit welcher Standard-Baudrate kommuniziert man in der Arduino-IDE oft seriell?",
+    "A": "50 oder 100 Baud.",
+    "B": "9600 oder 115200 Baud.",
+    "C": "1024 oder 2048 Baud.",
+    "D": "1000000 Baud.",
+    "loesung": "B"
+  },
+  "72": {
+    "thema": "MIKROCONTROLLER",
+    "frage": "Wie heissen die beiden zwingend notwendigen Funktionen in jedem Arduino-Sketch?",
+    "A": "start() und end().",
+    "B": "init() und main().",
+    "C": "setup() und loop().",
+    "D": "begin() und run().",
+    "loesung": "C"
+  },
+  "73": {
+    "thema": "MIKROCONTROLLER",
+    "frage": "Was bewirkt der Befehl pinMode(LED_BUILTIN, OUTPUT)?",
+    "A": "Er schaltet die LED sofort ein.",
+    "B": "Er liest den Zustand der LED aus.",
+    "C": "Er konfiguriert den Pin der internen LED als Ausgang.",
+    "D": "Er dimmt die LED ueber PWM.",
+    "loesung": "C"
+  },
+  "74": {
+    "thema": "MIKROCONTROLLER",
+    "frage": "Welcher I2C-Pin wird ueblicherweise mit SDA bezeichnet?",
+    "A": "Serial Data (Datenleitung).",
+    "B": "Serial Device Address.",
+    "C": "System Digital Analog.",
+    "D": "Synchronous Data Array.",
+    "loesung": "A"
+  },
+  "75": {
+    "thema": "MIKROCONTROLLER",
+    "frage": "Wofuer dient der SCL-Pin beim I2C-Bus?",
+    "A": "Serial Communication Link.",
+    "B": "Serial Clock (Taktleitung).",
+    "C": "System Control Line.",
+    "D": "Synchronous Clear.",
+    "loesung": "B"
+  }
+  {
+  "76": {
+    "thema": "MIKROCONTROLLER",
+    "frage": "Wie viele Leitungen benoetigt der SPI-Bus grundsaetzlich zur Kommunikation?",
+    "A": "Zwei Leitungen (SDA und SCL).",
+    "B": "Eine Eindraht-Leitung (One-Wire).",
+    "C": "Vier Leitungen (MOSI, MISO, SCK, CS/SS).",
+    "D": "Acht Datenleitungen und eine Taktleitung.",
+    "loesung": "C"
+  },
+  "77": {
+    "thema": "MIKROCONTROLLER",
+    "frage": "Warum nutzen wir einen Pull-up-Widerstand an einem Taster-Pin?",
+    "A": "Um den Strom durch den Taster gegen unendlich zu erhoehen.",
+    "B": "Um bei offenem Taster einen definierten HIGH-Pegel zu garantieren (kein Floating).",
+    "C": "Damit das Signal beim Schalten verzoegert wird.",
+    "D": "Um den Pin direkt mit der 230V-Netzspannung zu verbinden.",
+    "loesung": "B"
+  },
+  "78": {
+    "thema": "MIKROCONTROLLER",
+    "frage": "Was passiert, wenn der Watchdog-Timer eines Controllers nicht zurueckgesetzt wird?",
+    "A": "Der Controller wechselt dauerhaft in den Deep-Sleep.",
+    "B": "Die Taktfrequenz des Prozessors wird verdoppelt.",
+    "C": "Der Controller fuehrt einen automatischen Hardware-Reset durch.",
+    "D": "Das gesamte EEPROM wird unwiderruflich geloescht.",
+    "loesung": "C"
+  },
+  "79": {
+    "thema": "MIKROCONTROLLER",
+    "frage": "Was ist der gravierende Unterschied zwischen RAM und Flash-Speicher?",
+    "A": "Flash-Speicher ist deutlich schneller als der RAM-Speicher.",
+    "B": "RAM verliert Daten ohne Strom, Flash behaelt sie dauerhaft.",
+    "C": "Im RAM-Speicher wird der unveraenderliche Programmcode abgelegt.",
+    "D": "Flash-Speicher kann nur ein einziges Mal beschrieben werden.",
+    "loesung": "B"
+  },
+  "80": {
+    "thema": "MIKROCONTROLLER",
+    "frage": "Warum sollte man 'delay(1000)' in Hauptschleifen moeglichst vermeiden?",
+    "A": "Weil es den Speicher des Mikrocontrollers beschaedigt.",
+    "B": "Weil es den gesamten Prozessor blockiert (keine anderen Aufgaben in der Zeit).",
+    "C": "Weil der Stromverbrauch dadurch extrem ansteigt.",
+    "D": "Es hat keine Nachteile und ist der beste Weg fuer Zeitsteuerungen.",
+    "loesung": "B"
+  },
+  "81": {
+    "thema": "WERKSTATT & PRAXIS",
+    "frage": "Warum sollte feine Elektronik-Loetzinn-Legierung oft Flussmittel im Kern haben?",
+    "A": "Damit das Zinn beim Abkuehlen schoen glaenzt.",
+    "B": "Es entfernt Oxidschichten beim Loeten und sorgt fuer saubere Verbindungen.",
+    "C": "Um die Schmelztemperatur auf ueber 500 Grad zu erhoehen.",
+    "D": "Damit die Loetstelle mechanisch elastisch bleibt wie Gummi.",
+    "loesung": "B"
+  },
+  "82": {
+    "thema": "WERKSTATT & PRAXIS",
+    "frage": "Was ist eine 'kalte Loetstelle'?",
+    "A": "Eine Verbindung, die mit Eisspray gekuehlt wurde.",
+    "B": "Eine optisch matte, mechanisch schlechte und elektrisch unzuverlaessige Loetverbindung.",
+    "C": "Ein spezielles Verfahren beim Ultraschall-Schweißen.",
+    "D": "Eine Verbindung, die ohne Loetkolben nur gesteckt wurde.",
+    "loesung": "B"
+  },
+  "83": {
+    "thema": "WERKSTATT & PRAXIS",
+    "frage": "Welche Temperatur am Loetkolben ist fuer bleifreies Loetzinn typisch?",
+    "A": "Ca. 150 bis 180 Grad Celsius.",
+    "B": "Ca. 220 bis 250 Grad Celsius.",
+    "C": "Ca. 350 bis 380 Grad Celsius.",
+    "D": "Exakt 500 Grad Celsius.",
+    "loesung": "C"
+  },
+  "84": {
+    "thema": "WERKSTATT & PRAXIS",
+    "frage": "Was misst man bei einem Halbleiter mit dem Diodentest-Modus des Multimeters?",
+    "A": "Den exakten ohmschen Innenwiderstand in Megaohm.",
+    "B": "Die Fluss-Schwellenspannung in Millivolt (bzw. Volt).",
+    "C": "Die Kapazitaet der Sperrschicht in Nanofarad.",
+    "D": "Die maximale Betriebsfrequenz des Bauteils.",
+    "loesung": "B"
+  },
+  "85": {
+    "thema": "WERKSTATT & PRAXIS",
+    "frage": "Warum muessen statisch empfindliche Platinen in ESD-Beuteln gelagert werden?",
+    "A": "Damit sie in der Werkstatt nicht verstauben.",
+    "B": "Um sie vor elektromagnetischen Wellen von Radiosignalen zu schuetzen.",
+    "C": "Damit sich keine Spannungsspitzen durch Reibung an den Pins entladen.",
+    "D": "Damit Feuchtigkeit die Leiterbahnen nicht angreift.",
+    "loesung": "C"
+  },
+  "86": {
+    "thema": "WERKSTATT & PRAXIS",
+    "frage": "Womit entfernt man schonend Flussmittelreste von einer geloeteten Platine?",
+    "A": "Mit herkoemmlichem Leitungswasser und Seife.",
+    "B": "Mit Isopropanol (IPA) oder speziellem Leiterplattenreiniger.",
+    "C": "Mit Verduennung oder Aceton aus dem Baumarkt.",
+    "D": "Flussmittelreste muessen niemals entfernt werden, da sie leitend sind.",
+    "loesung": "B"
+  },
+  "87": {
+    "thema": "WERKSTATT & PRAXIS",
+    "frage": "Wie erkennt man einen aufgeblaehten oder defekten Elko optisch?",
+    "A": "Er verfaerbt sich schlagartig tiefschwarz.",
+    "B": "Der Deckel mit der Sollbruchstelle woelbt sich nach aussen oder Fluessigkeit tritt aus.",
+    "C": "Die Anschlussdruehte ziehen sich in das Gehaeuse zurueck.",
+    "D": "Er verliert seine Beschriftung auf dem Schrumpfschlauch.",
+    "loesung": "B"
+  },
+  "88": {
+    "thema": "WERKSTATT & PRAXIS",
+    "frage": "Warum traegt man Waermeleitpaste zwischen Transistor und Kuehlkoerper auf?",
+    "A": "Um den Transistor elektrisch vollstaendig vom Kuehlkoerper zu isolieren.",
+    "B": "Um mikroskopische Lufteinschluesse zu fuellen und den Waermeuebergang zu verbessern.",
+    "C": "Damit der Transistor fest mit dem Aluminium verklebt wird.",
+    "D": "Um den Kuehlkoerper vor Korrosion und Rost zu schuetzen.",
+    "loesung": "B"
+  },
+  "89": {
+    "thema": "WERKSTATT & PRAXIS",
+    "frage": "Welcher Fehler ist passiert, wenn eine neue Feinsicherung sofort beim Einschalten wieder tiefschwarz platzt?",
+    "A": "Die Sicherung war einfach zu alt.",
+    "B": "Ein massiver Kurzschluss direkt hinter der Sicherung.",
+    "C": "Die Netzspannung hat eine zu geringe Frequenz.",
+    "D": "Ein Verbraucher zieht minimal zu viel Leerlaufstrom.",
+    "loesung": "B"
+  },
+  "90": {
+    "thema": "WERKSTATT & PRAXIS",
+    "frage": "Wofuer nutzt man Entloetlitze?",
+    "A": "Zum Verlaengern von abgerissenen Kabeln auf Platinen.",
+    "B": "Um ueberschuessiges Loetzinn durch Kapillarwirkung von der Platine abzusaugen.",
+    "C": "Als Erdungsband fuer das ESD-Armband.",
+    "D": "Zum Reinigen der Loetkolbenspitze waehrend des Betriebs.",
+    "loesung": "B"
+  },
+  "91": {
+    "thema": "MOTOREN & ANTRIEBE",
+    "frage": "Was macht ein Schrittmotor bei einem einzelnen Steuerimpuls?",
+    "A": "Er dreht sich unendlich weiter, bis ein Stopp-Signal kommt.",
+    "B": "Er fuehrt eine komplette Umdrehung (360 Grad) aus.",
+    "C": "Er dreht sich um exakt einen definierten Schrittwinkel (z.B. 1,8 Grad).",
+    "D": "Er vibriert nur kurz, bewegt sich aber nicht.",
+    "loesung": "C"
+  },
+  "92": {
+    "thema": "MOTOREN & ANTRIEBE",
+    "frage": "Wofuer dient der Kommutator bei einem Gleichstrom-Buerstenmotor?",
+    "A": "Er regelt die Drehzahl vollautomatisch.",
+    "B": "Er polt den Strom im Rotor zyklisch um, damit sich das Magnetfeld weiterdreht.",
+    "C": "Er glaetzt die induzierte Wechselspannung.",
+    "D": "Er dient als mechanische Bremse beim Abschalten.",
+    "loesung": "B"
+  },
+  "93": {
+    "thema": "MOTOREN & ANTRIEBE",
+    "frage": "Was ist das Prinzip eines BLDC-Motors (Brushless DC)?",
+    "A": "Er laeuft komplett ohne Dauermagnete.",
+    "B": "Elektronische Kommutierung ohne verschleissende Buersten.",
+    "C": "Er wird direkt mit 230V Wechselstrom betrieben.",
+    "D": "Die Drehzahlsteuerung erfolgt rein mechanisch ueber Fliehkraefte.",
+    "loesung": "B"
+  },
+  "94": {
+    "thema": "MOTOREN & ANTRIEBE",
+    "frage": "Was bewirkt ein mechanisches Getriebe vor einem Elektromotor?",
+    "A": "Es erhoeht die Drehzahl und verringert das Drehmoment.",
+    "B": "Es verringert die Drehzahl und erhoeht das Drehmoment.",
+    "C": "Es wandelt Gleichstrom direkt in Drehstrom um.",
+    "D": "Es dient ausschliesslich zur Reduzierung der Vibrationen.",
+    "loesung": "B"
+  },
+  "95": {
+    "thema": "MOTOREN & ANTRIEBE",
+    "frage": "Wie aendert man die Drehrichtung eines normalen Gleichstrommotors?",
+    "A": "Durch Erhoehung der Frequenz.",
+    "B": "Gar nicht, die Drehrichtung ist baulich fest vorgegeben.",
+    "C": "Durch Umpolen der Versorgungsspannung (+ und - tauschen).",
+    "D": "Indem man den Motor kurz mechanisch blockiert.",
+    "loesung": "C"
+  },
+  "96": {
+    "thema": "SPEZIALFRAGEN",
+    "frage": "Was bedeutet das Praefix 'Piko' (p) bei einem Kondensator?",
+    "A": "Ein Tausendstel (10^-3).",
+    "B": "Ein Millionstel (10^-6).",
+    "C": "Ein Milliardstel (10^-9).",
+    "D": "Ein Billionstel (10^-12).",
+    "loesung": "D"
+  },
+  "97": {
+    "thema": "SPEZIALFRAGEN",
+    "frage": "Welches Bauteil in einem Schaltnetzteil trennt die Primaer- von der Sekundaerseite galvanisch?",
+    "A": "Der Glättungskondensator.",
+    "B": "Die Leistungs-Zenerdiode.",
+    "C": "Der Hochfrequenz-Transformator.",
+    "D": "Der Brueckengleichrichter.",
+    "loesung": "C"
+  },
+  "98": {
+    "thema": "SPEZIALFRAGEN",
+    "frage": "Welche Verlustleistung entsteht grob an einem linearen Spannungsregler (z.B. 7805)?",
+    "A": "P_verlust = U_in * I_last.",
+    "B": "P_verlust = (U_in - U_out) * I_last.",
+    "C": "P_verlust = U_out^2 / R_last.",
+    "D": "Es entsteht im Idealfall ueberhaupt keine Verlustleistung.",
+    "loesung": "B"
+  },
+  "99": {
+    "thema": "SPEZIALFRAGEN",
+    "frage": "Warum pfeifen manche Schaltnetzteile hoerbar unter Last?",
+    "A": "Weil Strom ab einer gewissen Staerke akustische Signale abgibt.",
+    "B": "Spulen oder Trafos schwingen mechanisch aufgrund von Magnetostriktion im hoerbaren Frequenzbereich.",
+    "C": "Das Pfeifen wird softwareseitig als Warnsignal erzeugt.",
+    "D": "Weil die Luftkühlung im Transformator ueberlastet ist.",
+    "loesung": "B"
+  },
+  "100": {
+    "thema": "SPEZIALFRAGEN",
+    "frage": "Was ist die Hauptfunktion eines Optokopplers?",
+    "A": "Lichtsignale in digitale Datenpakete umzuwandeln.",
+    "B": "Galvanische Trennung bei gleichzeitiger Uebertragung von Signalen per Licht.",
+    "C": "Die optische Anzeige der anliegenden Betriebsspannung.",
+    "D": "Das Schalten von hohen Wechselstromlasten mittels Laser.",
+    "loesung": "B"
+  }
+  {
+  "101": {
+    "thema": "SCHUTZMASSNAHMEN",
+    "frage": "Wie lautet die erste der 5 Sicherheitsregeln der Elektrotechnik?",
+    "A": "Gegen Wiedereinschalten sichern.",
+    "B": "Spannungsfreiheit feststellen.",
+    "C": "Freischalten.",
+    "D": "Erden und kurzschliessen.",
+    "loesung": "C"
+  },
+  "102": {
+    "thema": "SCHUTZMASSNAHMEN",
+    "frage": "Wie lautet die zweite der 5 Sicherheitsregeln der Elektrotechnik?",
+    "A": "Freischalten.",
+    "B": "Gegen Wiedereinschalten sichern.",
+    "C": "Spannungsfreiheit feststellen.",
+    "D": "Benachbarte Teile abdecken.",
+    "loesung": "B"
+  },
+  "103": {
+    "thema": "SCHUTZMASSNAHMEN",
+    "frage": "Wie lautet die dritte der 5 Sicherheitsregeln der Elektrotechnik?",
+    "A": "Spannungsfreiheit feststellen.",
+    "B": "Erden und kurzschliessen.",
+    "C": "Freischalten.",
+    "D": "Schutzkleidung anlegen.",
+    "loesung": "A"
+  },
+  "104": {
+    "thema": "SCHUTZMASSNAHMEN",
+    "frage": "Wie lautet die vierte der 5 Sicherheitsregeln der Elektrotechnik?",
+    "A": "Spannungsfreiheit feststellen.",
+    "B": "Benachbarte Teile abdecken.",
+    "C": "Gegen Wiedereinschalten sichern.",
+    "D": "Erden und kurzschliessen.",
+    "loesung": "D"
+  },
+  "105": {
+    "thema": "SCHUTZMASSNAHMEN",
+    "frage": "Wie lautet die fuenfte der 5 Sicherheitsregeln der Elektrotechnik?",
+    "A": "Benachbarte, unter Spannung stehende Teile abdecken.",
+    "B": "Erden und kurzschliessen.",
+    "C": "Die Arbeit dem Meister melden.",
+    "D": "Spannungsfreiheit feststellen.",
+    "loesung": "A"
+  },
+  "106": {
+    "thema": "WECHSELSTROM",
+    "frage": "Wie gross ist die Netzfrequenz in Europa?",
+    "A": "16,7 Hertz (Hz).",
+    "B": "50 Hertz (Hz).",
+    "C": "60 Hertz (Hz).",
+    "D": "400 Hertz (Hz).",
+    "loesung": "B"
+  },
+  "107": {
+    "thema": "WECHSELSTROM",
+    "frage": "Wie lautet der Formelzusammenhang zwischen Periodendauer T und Frequenz f?",
+    "A": "f = T * 2",
+    "B": "f = 1 / T",
+    "C": "f = T^2",
+    "D": "f = Wurzel(T)",
+    "loesung": "B"
+  },
+  "108": {
+    "thema": "WECHSELSTROM",
+    "frage": "Welchen Effektivwert hat die normale Einphasen-Netzspannung im Haushalt?",
+    "A": "115 Volt (V).",
+    "B": "230 Volt (V).",
+    "C": "400 Volt (V).",
+    "D": "500 Volt (V).",
+    "loesung": "B"
+  },
+  "109": {
+    "thema": "WECHSELSTROM",
+    "frage": "Wie lautet der Spitzenwert (Up) bei einer sinusfoermigen Wechselspannung von 230V Effektivwert?",
+    "A": "Ca. 230 Volt.",
+    "B": "Ca. 325 Volt.",
+    "C": "Ca. 400 Volt.",
+    "D": "Ca. 460 Volt.",
+    "loesung": "B"
+  },
+  "110": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Welche logische Verknuepfung liefert nur dann eine 1, wenn alle Eingaenge 1 sind?",
+    "A": "ODER-Gatter (OR).",
+    "B": "XOR-Gatter.",
+    "C": "UND-Gatter (AND).",
+    "D": "NAND-Gatter.",
+    "loesung": "C"
+  },
+  "111": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Welche logische Verknuepfung invertiert das Eingangssignal?",
+    "A": "NICHT-Gatter (NOT).",
+    "B": "AND-Gatter.",
+    "C": "OR-Gatter.",
+    "D": "Buffer-Gatter.",
+    "loesung": "A"
+  },
+  "112": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Welcher Logikpegel liegt bei einem offenen TTL-Eingang (ohne externen Widerstand) typischerweise an?",
+    "A": "Er ist undefiniert und fluktuiert staendig.",
+    "B": "Definierter Low-Pegel (0).",
+    "C": "High-Pegel (1).",
+    "D": "Er zieht automatisch die maximale Versorgungsspannung.",
+    "loesung": "C"
+  },
+  "113": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Wie viele zulaessige Zustaende hat ein Bit?",
+    "A": "Einen Zustand.",
+    "B": "Zwei Zustaende (0 und 1).",
+    "C": "Vier Zustaende.",
+    "D": "Unendlich viele, da es analog ist.",
+    "loesung": "B"
+  },
+  "114": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Welche Dezimalzahl entspricht der Binaerzahl 1010?",
+    "A": "Die Zahl 5.",
+    "B": "Die Zahl 8.",
+    "C": "Die Zahl 10.",
+    "D": "Die Zahl 12.",
+    "loesung": "C"
+  },
+  "115": {
+    "thema": "BAUTEILE",
+    "frage": "Was passiert mit dem Widerstandwert eines NTC-Widerstands bei Erwaermung?",
+    "A": "Er steigt linear an.",
+    "B": "Er sinkt (Heissleiter).",
+    "C": "Er bleibt absolut konstant.",
+    "D": "Er springt sofort auf unendlich.",
+    "loesung": "B"
+  },
+  "116": {
+    "thema": "BAUTEILE",
+    "frage": "Was passiert mit dem Widerstandswert eines PTC-Widerstands bei Erwaermung?",
+    "A": "Er sinkt proportional zur Temperatur.",
+    "B": "Er springt bei 0 Grad auf Null Ohm.",
+    "C": "Er steigt (Kaltleiter).",
+    "D": "Er halbiert sich.",
+    "loesung": "C"
+  },
+  "117": {
+    "thema": "BAUTEILE",
+    "frage": "Welches Bauteil verringert seinen Widerstand, wenn Licht auf es faellt?",
+    "A": "VDR (Varistor).",
+    "B": "NTC-Widerstand.",
+    "C": "LDR (Fotowiderstand).",
+    "D": "Zener-Diode.",
+    "loesung": "C"
+  },
+  "118": {
+    "thema": "BAUTEILE",
+    "frage": "In welcher Einheit wird die Kapazitaet eines Kondensators angegeben?",
+    "A": "Henry (H).",
+    "B": "Farad (F).",
+    "C": "Ohm.",
+    "D": "Siemens (S).",
+    "loesung": "B"
+  },
+  "119": {
+    "thema": "BAUTEILE",
+    "frage": "In welcher Einheit wird die Induktivitaet einer Spule angegeben?",
+    "A": "Henry (H).",
+    "B": "Farad (F).",
+    "C": "Tesla (T).",
+    "D": "Weber (Wb).",
+    "loesung": "A"
+  },
+  "120": {
+    "thema": "BAUTEILE",
+    "frage": "Welches elektronische Bauteil laesst den Strom idealerweise nur in eine Richtung durch?",
+    "A": "Der Kondensator.",
+    "B": "Der Transistor.",
+    "C": "Die Diode.",
+    "D": "Die Spule.",
+    "loesung": "C"
+  },
+  "121": {
+    "thema": "MESSTECHNIK",
+    "frage": "Wie muss ein Amperemeter in den Stromkreis geschaltet werden?",
+    "A": "Parallel zum Verbraucher.",
+    "B": "In Reihe (Serienschaltung) zum Verbraucher.",
+    "C": "Direkt zwischen Aussenleiter und Schutzleiter.",
+    "D": "Das ist egal, da es den Strom induktiv misst.",
+    "loesung": "B"
+  },
+  "122": {
+    "thema": "MESSTECHNIK",
+    "frage": "Wie muss ein Voltmeter an den Verbraucher angeschlossen werden?",
+    "A": "In Reihe vor den Verbraucher.",
+    "B": "Parallel zum Verbraucher.",
+    "C": "Hinter den Verbraucher gegen den PE-Leiter.",
+    "D": "In Reihe nach dem Verbraucher.",
+    "loesung": "B"
+  },
+  "123": {
+    "thema": "MESSTECHNIK",
+    "frage": "Sollte ein ideales Voltmeter einen hohen oder niedrigen Innenwiderstand haben?",
+    "A": "Einen unendlich kleinen Innenwiderstand.",
+    "B": "Einen unendlich hohen Innenwiderstand.",
+    "C": "Genau 0 Ohm, um Fehler zu vermeiden.",
+    "D": "Er sollte exakt dem Lastwiderstand entsprechen.",
+    "loesung": "B"
+  },
+  "124": {
+    "thema": "MESSTECHNIK",
+    "frage": "Sollte ein ideales Amperemeter einen hohen oder niedrigen Innenwiderstand haben?",
+    "A": "Einen unendlich kleinen Innenwiderstand (nahezu Null Ohm).",
+    "B": "Einen unendlich hohen Innenwiderstand.",
+    "C": "Genau 50 Ohm wegen der Leitungsimpedanz.",
+    "D": "Der Innenwiderstand spielt bei Strommessungen keine Rolle.",
+    "loesung": "A"
+  },
+  "125": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Wie lautet die physikalische Einheit des elektrischen Stroms?",
+    "A": "Volt (V).",
+    "B": "Watt (W).",
+    "C": "Ohm.",
+    "D": "Ampere (A).",
+    "loesung": "D"
+  }
+  {
+  "126": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Wie lautet die physikalische Einheit der elektrischen Spannung?",
+    "A": "Ampere (A).",
+    "B": "Volt (V).",
+    "C": "Ohm.",
+    "D": "Coulomb (C).",
+    "loesung": "B"
+  },
+  "127": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Wie lautet die physikalische Einheit des elektrischen Widerstands?",
+    "A": "Siemens (S).",
+    "B": "Watt (W).",
+    "C": "Ohm.",
+    "D": "Farad (F).",
+    "loesung": "C"
+  },
+  "128": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Welches Elementarteilchen transportiert die elektrische Ladung in Metallen?",
+    "A": "Protonen.",
+    "B": "Neutronen.",
+    "C": "Elektronen.",
+    "D": "Ionen.",
+    "loesung": "C"
+  },
+  "129": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Wie nennt man die Schaltung, bei der sich der elektrische Strom aufteilt?",
+    "A": "Reihenschaltung.",
+    "B": "Parallelschaltung.",
+    "C": "Brueckenschaltung.",
+    "D": "Kaskadenschaltung.",
+    "loesung": "B"
+  },
+  "130": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Wie verhaelt sich die Gesamtspannung in einer Parallelschaltung?",
+    "A": "Sie ist an allen Verbrauchern gleich gross.",
+    "B": "Sie teilt sich im Verhaeltnis der Widerstaende auf.",
+    "C": "Sie ist die Summe aller Teilspannungen.",
+    "D": "Sie sinkt mit jedem weiteren Verbraucher quadratisch.",
+    "loesung": "A"
+  },
+  "131": {
+    "thema": "SCHUTZMASSNAHMEN",
+    "frage": "Was bedeutet die elektrotechnische Abkuerzung RCD?",
+    "A": "Residual Current Device (Fehlerstrom-Schutzschalter).",
+    "B": "Remote Control Disconnect.",
+    "C": "Reverse Current Diode.",
+    "D": "Rated Circuit Device.",
+    "loesung": "A"
+  },
+  "132": {
+    "thema": "SCHUTZMASSNAHMEN",
+    "frage": "Ab welchem Koerperstrombereich wird es fuer Menschen lebensgefaehrlich?",
+    "A": "Ab ca. 1 mA Wechselstrom.",
+    "B": "Ab ca. 10 mA Wechselstrom.",
+    "C": "Ab ca. 50 mA Wechselstrom (Herzkammerflimmern).",
+    "D": "Erst ab 10 Ampere Wechselstrom.",
+    "loesung": "C"
+  },
+  "133": {
+    "thema": "SCHUTZMASSNAHMEN",
+    "frage": "Wie hoch ist die maximal zulaessige Beruehrungsspannung bei Wechselspannung fuer Erwachsene?",
+    "A": "12 Volt AC.",
+    "B": "24 Volt AC.",
+    "C": "50 Volt AC.",
+    "D": "120 Volt AC.",
+    "loesung": "C"
+  },
+  "134": {
+    "thema": "SCHUTZMASSNAHMEN",
+    "frage": "Wie hoch ist die maximal zulaessige Beruehrungsspannung bei Gleichspannung fuer Erwachsene?",
+    "A": "50 Volt DC.",
+    "B": "60 Volt DC.",
+    "C": "120 Volt DC.",
+    "D": "230 Volt DC.",
+    "loesung": "C"
+  },
+  "135": {
+    "thema": "BAUTEILE",
+    "frage": "Aus welchen drei Anschluessen besteht ein klassischer Bipolartransistor?",
+    "A": "Gate, Source, Drain.",
+    "B": "Anode, Kathode, Gate.",
+    "C": "Basis, Kollektor, Emitter.",
+    "D": "Eingang, Ausgang, Masse.",
+    "loesung": "C"
+  },
+  "136": {
+    "thema": "BAUTEILE",
+    "frage": "Wie heissen die drei Anschluesse eines Unipolartransistors (FET)?",
+    "A": "Basis, Kollektor, Emitter.",
+    "B": "Gate, Source, Drain.",
+    "C": "Anode, Kathode, Steuerpin.",
+    "D": "Primary, Secondary, Core.",
+    "loesung": "B"
+  },
+  "137": {
+    "thema": "BAUTEILE",
+    "frage": "Welche elektrotechnische Aufgabe hat ein Transformator?",
+    "A": "Gleichspannung in Wechselspannung umzuwandeln.",
+    "B": "Wechselspannungen und Wechselstroeme transformieren.",
+    "C": "Die elektrische Energie chemisch zu speichern.",
+    "D": "Die Frequenz des Netzes zu erhoehen.",
+    "loesung": "B"
+  },
+  "138": {
+    "thema": "BAUTEILE",
+    "frage": "Auf welchem physikalischen Prinzip basiert die Funktion eines Transformators?",
+    "A": "Auf dem piezoelektrischen Effekt.",
+    "B": "Auf dem thermoelektrischen Effekt.",
+    "C": "Elektromagnetische Induktion.",
+    "D": "Auf der elektrostatischen Kraft.",
+    "loesung": "C"
+  },
+  "139": {
+    "thema": "WECHSELSTROM",
+    "frage": "Wie lautet die Einheit der elektrischen Scheinleistung S?",
+    "A": "Watt (W).",
+    "B": "Voltampere (VA).",
+    "C": "Voltampere Reaktiv (var).",
+    "D": "Joule (J).",
+    "loesung": "B"
+  },
+  "140": {
+    "thema": "WECHSELSTROM",
+    "frage": "Wie lautet die Einheit der elektrischen Wirkleistung P?",
+    "A": "Voltampere (VA).",
+    "B": "Voltampere Reaktiv (var).",
+    "C": "Watt (W).",
+    "D": "Ohm.",
+    "loesung": "C"
+  },
+  "141": {
+    "thema": "WECHSELSTROM",
+    "frage": "Wie lautet die Einheit der elektrischen Blindleistung Q?",
+    "A": "Watt (W).",
+    "B": "Voltampere (VA).",
+    "C": "Voltampere Reaktiv (var).",
+    "D": "Siemens (S).",
+    "loesung": "C"
+  },
+  "142": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Welches Gatter liefert eine 1 am Ausgang, wenn die Eingaenge ungleich sind?",
+    "A": "NAND-Gatter.",
+    "B": "NOR-Gatter.",
+    "C": "XOR-Gatter (Exklusiv-ODER).",
+    "D": "AND-Gatter.",
+    "loesung": "C"
+  },
+  "143": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Welche Schaltung besitzt zwei stabile Zustaende und dient als Basis-Speicher?",
+    "A": "Operationsverstaerker.",
+    "B": "Flipflop.",
+    "C": "Schmitt-Trigger.",
+    "D": "Multiplexer.",
+    "loesung": "B"
+  },
+  "144": {
+    "thema": "MESSTECHNIK",
+    "frage": "Was misst man mit einem Oszilloskop hauptsaechlich?",
+    "A": "Den chemischen Zustand von Elektrolyten.",
+    "B": "Den zeitlichen Verlauf einer elektrischen Spannung.",
+    "C": "Den magnetischen Fluss in Trafokernen.",
+    "D": "Den exakten Energieverbrauch in kWh.",
+    "loesung": "B"
+  },
+  "145": {
+    "thema": "MESSTECHNIK",
+    "frage": "Was versteht man unter dem Begriff Aliasing bei Digitaloszilloskopen?",
+    "A": "Ein Rauschen auf der Masseleitung.",
+    "B": "Abtastfehler durch eine zu geringe Abtastrate (Scheinfrequenzen).",
+    "C": "Eine fehlerhafte Eichung des Tastkopfs.",
+    "D": "Das Uebersteuern des Eingangskanals.",
+    "loesung": "B"
+  },
+  "146": {
+    "thema": "QUALITAET",
+    "frage": "Welcher IPC-Standard beschreibt die Abnahmekriterien fuer elektronische Baugruppen?",
+    "A": "IPC-6012.",
+    "B": "IPC-A-610.",
+    "C": "IPC-7711.",
+    "D": "IPC-WHMA-A-620.",
+    "loesung": "B"
+  },
+  "147": {
+    "thema": "QUALITAET",
+    "frage": "Welcher Report wird in der Industrie zur systematischen Reklamationsbearbeitung genutzt?",
+    "A": "Der 3D-CAD-Report.",
+    "B": "Der 8D-Report.",
+    "C": "Das VDE-Pruefprotokoll.",
+    "D": "Das Sicherheitsdatenblatt.",
+    "loesung": "B"
+  },
+  "148": {
+    "thema": "BAUTEILE",
+    "frage": "Was schuetzt eine Schmelzsicherung in einer elektrischen Anlage in erster Linie?",
+    "A": "Den Verbraucher vor Erdschluss.",
+    "B": "Den Menschen vor elektrischem Schlag.",
+    "C": "Die Leitung vor Ueberlastung und Kurzschluss.",
+    "D": "Das Kraftwerk vor Blitzeinschlag.",
+    "loesung": "C"
+  },
+  "149": {
+    "thema": "BAUTEILE",
+    "frage": "Welche Polaritaet hat der laengere Anschlussdraht einer neuen LED?",
+    "A": "Kathode (Minuspol).",
+    "B": "Anode (Pluspol).",
+    "C": "Masse (GND).",
+    "D": "Er hat keine feste Polaritaet (Wechselstrom pin).",
+    "loesung": "B"
+  },
+  "150": {
+    "thema": "BAUTEILE",
+    "frage": "Wie nennt man die leitende Verbindung im Halbleiter, die durch Dotierung entsteht?",
+    "A": "Glimmer-Sperrschicht.",
+    "B": "Isolations-Kanal.",
+    "C": "pn-Uebergang.",
+    "D": "Metall-Flansch.",
+    "loesung": "C"
+  }
+  {
+  "151": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Wie lautet das physikalische Formelzeichen der elektrischen Feldstaerke?",
+    "A": "Das Formelzeichen ist F.",
+    "B": "Das Formelzeichen ist E.",
+    "C": "Das Formelzeichen ist C.",
+    "D": "Das Formelzeichen ist Phi.",
+    "loesung": "B"
+  },
+  "152": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Welches physikalische Gesetz beschreibt die Kraft zwischen zwei elektrischen Ladungen?",
+    "A": "Das Ohmsche Gesetz.",
+    "B": "Das Faradaysche Gesetz.",
+    "C": "Das Coulombsche Gesetz.",
+    "D": "Das Lenzsche Gesetz.",
+    "loesung": "C"
+  },
+  "153": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Was besagt die Kirchhoffsche Knotenpunktregel bezueglich der Stroeme?",
+    "A": "Der Strom verdoppelt sich an jedem Knotenpunkt.",
+    "B": "Die Summe der zufliessehenden Stroeme ist gleich der abfliessehenden Stroeme.",
+    "C": "Am Knotenpunkt faellt die elektrische Stromstaerke auf Null ab.",
+    "D": "Der Strom teilt sich immer zu exakt gleichen Teilen auf.",
+    "loesung": "B"
+  },
+  "154": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Was besagt die Kirchhoffsche Maschenregel bezueglich der Spannungen?",
+    "A": "Die Summe aller Quellenspannungen ist gleich der Summe aller Spannungsabfaelle.",
+    "B": "In einer Masche addieren sich alle Stroeme quadratisch.",
+    "C": "Die Spannung ist an jedem Punkt einer geschlossenen Masche identisch.",
+    "D": "Der Gesamtwiderstand einer Masche muss immer Null ergeben.",
+    "loesung": "A"
+  },
+  "155": {
+    "thema": "WECHSELSTROM",
+    "frage": "Eilt der Strom bei einer idealen Induktivitaet der Spannung vor oder nach?",
+    "A": "Er eilt um genau 90 Grad vor.",
+    "B": "Strom und Spannung verlaufen absolut phasengleich.",
+    "C": "Er eilt um genau 90 Grad nach.",
+    "D": "Er eilt um 180 Grad vor.",
+    "loesung": "C"
+  },
+  "156": {
+    "thema": "WECHSELSTROM",
+    "frage": "Eilt der Strom bei einer idealen Kapazitaet der Spannung vor oder nach?",
+    "A": "Er eilt um genau 90 Grad nach.",
+    "B": "Er eilt um genau 90 Grad vor.",
+    "C": "Er eilt um 45 Grad nach.",
+    "D": "Er verzoegert sich um eine volle Schwingungsperiode.",
+    "loesung": "B"
+  },
+  "157": {
+    "thema": "WECHSELSTROM",
+    "frage": "Wie lautet die Eselsbruecke fuer die Phasenverschiebung an Spule und Kondensator?",
+    "A": "Ueber den Kondensator geht es rascher, an Spulen dauert es laenger.",
+    "B": "Bei Induktivitaeten Stroeme sich verspaeten, am Kondensator die Stroeme vorauseilen.",
+    "C": "An der Spule fliesst der Strom, am Kondensator bricht er ab.",
+    "D": "Die Spannung eilt den Stroemen ueberall hinterher.",
+    "loesung": "B"
+  },
+  "158": {
+    "thema": "BAUTEILE",
+    "frage": "Welches elektronische Bauteil speichert Energie in einem magnetischen Feld?",
+    "A": "Der Widerstand.",
+    "B": "Der Kondensator.",
+    "C": "Die Spule.",
+    "D": "Der Transistor.",
+    "loesung": "C"
+  },
+  "159": {
+    "thema": "BAUTEILE",
+    "frage": "Welches elektronische Bauteil speichert Energie in einem elektrischen Feld?",
+    "A": "Die Spule.",
+    "B": "Der Kondensator.",
+    "C": "Der Transformator.",
+    "D": "Der Varistor.",
+    "loesung": "B"
+  },
+  "160": {
+    "thema": "BAUTEILE",
+    "frage": "Welche typische Schwellenspannung hat eine Germanium-Diode in Durchlassrichtung?",
+    "A": "Ca. 0,7 Volt.",
+    "B": "Ca. 1,2 Volt.",
+    "C": "Ca. 0,2 bis 0,3 Volt.",
+    "D": "Sie hat ueberhaupt keine Schwellenspannung.",
+    "loesung": "C"
+  },
+  "161": {
+    "thema": "MESSTECHNIK",
+    "frage": "Welche Messkategorie (CAT) muss ein Multimeter zur Messung an der Hauptverteilung mindestens haben?",
+    "A": "CAT I.",
+    "B": "CAT II.",
+    "C": "Mindestens CAT III (besser CAT IV).",
+    "D": "Fuer Hauptverteilungen sind Digitalmultimeter generell verboten.",
+    "loesung": "C"
+  },
+  "162": {
+    "thema": "MESSTECHNIK",
+    "frage": "Was bedeutet das Feature True-RMS bei einem digitalen Multimeter?",
+    "A": "Es misst den Spitzenwert und multipliziert ihn mit zwei.",
+    "B": "Es garantiert, dass das Messergebnis digital verschluesselt ist.",
+    "C": "Echte Effektivwertmessung auch bei nicht-sinusfoermigen Signalen.",
+    "D": "Dass das Multimeter im Labor kalibriert wurde.",
+    "loesung": "C"
+  },
+  "163": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Wie viele Bytes entsprechen einem Kilobyte (KB) nach klassischer binaerer Rechnung?",
+    "A": "Genau 1000 Bytes.",
+    "B": "Genau 1024 Bytes.",
+    "C": "Genau 2048 Bytes.",
+    "D": "8000 Bytes.",
+    "loesung": "B"
+  },
+  "164": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Wie nennt man in der Digitaltechnik eine Gruppe von exakt 4 Bits?",
+    "A": "Byte.",
+    "B": "Word.",
+    "C": "Nibble (oder Halbbyte).",
+    "D": "Bit-Array.",
+    "loesung": "C"
+  },
+  "165": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Wie viele unterschiedliche Kombinationen koennen mit einem Byte (8 Bit) dargestellt werden?",
+    "A": "8 Kombinationen.",
+    "B": "16 Kombinationen.",
+    "C": "128 Kombinationen.",
+    "D": "256 Kombinationen (Werte von 0 bis 255).",
+    "loesung": "D"
+  },
+  "166": {
+    "thema": "BAUTEILE",
+    "frage": "Was ist die Hauptaufgabe eines Operationsverstaerkers (OpAmp)?",
+    "A": "Wechselstrom verlustfrei in Gleichstrom umzuwandeln.",
+    "B": "Die Verstaerkung einer anliegenden Spannungsdifferenz.",
+    "C": "Die Begrenzung von hohen Schaltstroemen am Relais.",
+    "D": "Frequenzen im Megahertzbereich herauszufiltern.",
+    "loesung": "B"
+  },
+  "167": {
+    "thema": "BAUTEILE",
+    "frage": "Wie hoch ist der Eingangswiderstand eines idealen Operationsverstaerkers?",
+    "A": "Null Ohm.",
+    "B": "Genau 50 Ohm zur Impedanzanpassung.",
+    "C": "Unendlich gross.",
+    "D": "Er entspricht dem Lastwiderstand.",
+    "loesung": "C"
+  },
+  "168": {
+    "thema": "BAUTEILE",
+    "frage": "Wie hoch ist der Ausgangswiderstand eines idealen Operationsverstaerkers?",
+    "A": "Null Ohm.",
+    "B": "Genau 10 Kilo-Ohm.",
+    "C": "Unendlich gross.",
+    "D": "Er ist variabel und passt sich dem Eingang an.",
+    "loesung": "A"
+  },
+  "169": {
+    "thema": "STROMVERSORGUNG",
+    "frage": "Welche Aufgabe hat ein Gleichrichter in einer Netzteilschaltung?",
+    "A": "Die Ausgangsspannung absolut konstant zu halten.",
+    "B": "Wechselspannung in eine pulsierende Gleichspannung umzuwandeln.",
+    "C": "Gleichstrom in sinusfoermigen Wechselstrom zu wandeln.",
+    "D": "Den Transformator vor Ueberlastung zu schuetzen.",
+    "loesung": "B"
+  },
+  "170": {
+    "thema": "STROMVERSORGUNG",
+    "frage": "Aus wie vielen Dioden besteht eine klassische Graetz-Brueckengleichrichterschaltung?",
+    "A": "Aus einer einzelnen Diode.",
+    "B": "Aus zwei Dioden.",
+    "C": "Aus vier Dioden.",
+    "D": "Aus sechs Dioden.",
+    "loesung": "C"
+  },
+  "171": {
+    "thema": "STROMVERSORGUNG",
+    "frage": "Welches elektronische Bauteil wird standardmaessig zur Glaettung nach einer Gleichrichtung eingesetzt?",
+    "A": "Ein niederohmiger Leistungswiderstand.",
+    "B": "Eine Drosselspule in Reihe.",
+    "C": "Ein Kondensator (meist ein Elektrolytkondensator).",
+    "D": "Eine Zener-Diode in Durchlassrichtung.",
+    "loesung": "C"
+  },
+  "172": {
+    "thema": "STROMVERSORGUNG",
+    "frage": "Was ist der Hauptvorteil eines Schaltnetzteils gegenueber einem konventionellen Linearnetzteil?",
+    "A": "Es arbeitet komplett ohne elektrische Filter.",
+    "B": "Ein deutlich hoeherer Wirkungsgrad und geringeres Gewicht.",
+    "C": "Es erzeugt keinerlei hochfrequente Stoerungen.",
+    "D": "Der Schaltungsaufbau ist wesentlich einfacher.",
+    "loesung": "B"
+  },
+  "173": {
+    "thema": "BAUTEILE",
+    "frage": "Welches Bauteil schuetzt vor Spannungsspitzen, indem es bei hoher Spannung schlagartig leitend wird?",
+    "A": "NTC-Widerstand.",
+    "B": "Varistor (VDR).",
+    "C": "Trimmkondensator.",
+    "D": "Fototransistor.",
+    "loesung": "B"
+  },
+  "174": {
+    "thema": "BAUTEILE",
+    "frage": "Welches Bauteil uebertraegt Signale optisch und trennt dabei zwei Stromkreise galvanisch?",
+    "A": "Die Leuchtdiode (LED).",
+    "B": "Der Optokoppler.",
+    "C": "Das Halbleiterrelais (SSR).",
+    "D": "Die Photodiode.",
+    "loesung": "B"
+  },
+  "175": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Was gibt der Wirkungsgrad (Formelzeichen eta) eines elektrischen Geraetes an?",
+    "A": "Die maximale Betriebsdauer unter Volllast.",
+    "B": "Das Verhaeltnis von abgegebener Leistung zu zugefuehrter Leistung.",
+    "C": "Die Phasenverschiebung zwischen Strom und Spannung.",
+    "D": "Den Anteil der Wirkleistung an der Scheinleistung.",
+    "loesung": "B"
+  }
+  {
+  "176": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Kann der Wirkungsgrad einer realen elektrischen Maschine jemals groesser als 1 (oder 100%) sein?",
+    "A": "Ja, bei supraleitenden Motoren im Labor.",
+    "B": "Nein, er ist durch unvermeidbare Reibungs- und Waermeverluste immer kleiner als 1.",
+    "C": "Ja, wenn die Maschine im Generatorbetrieb laeuft.",
+    "D": "Ja, bei elektronisch kommutierten Motoren (EC-Motoren).",
+    "loesung": "B"
+  },
+  "177": {
+    "thema": "GRUNDLAGEN",
+    "frage": "In welche Energieform wird die elektrische Verlustleistung in der Elektronik fast immer ungewollt umgewandelt?",
+    "A": "In chemische Energie.",
+    "B": "In Waermeenergie.",
+    "C": "In kinetische Energie.",
+    "D": "In magnetische Strahlung.",
+    "loesung": "B"
+  },
+  "178": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Wie lautet die physikalische Formel zur Berechnung der elektrischen Arbeit W?",
+    "A": "W = P / t (Leistung durch Zeit).",
+    "B": "W = U * I (Spannung mal Strom).",
+    "C": "W = P * t (Leistung mal Zeit).",
+    "D": "W = 0,5 * C * U^2.",
+    "loesung": "C"
+  },
+  "179": {
+    "thema": "GRUNDLAGEN",
+    "frage": "In welcher Einheit wird die elektrische Arbeit standardmaessig auf der privaten Stromabrechnung angegeben?",
+    "A": "Watt pro Sekunde (W/s).",
+    "B": "Kilowattstunde (kWh).",
+    "C": "Voltampere Reaktiv (var).",
+    "D": "Joule pro Stunde (J/h).",
+    "loesung": "B"
+  },
+  "180": {
+    "thema": "BAUTEILE",
+    "frage": "Wie verhaelt sich die Gesamtkapazitaet von zwei in Reihe geschalteten Kondensatoren?",
+    "A": "Die Gesamtkapazitaet entspricht der Summe beider Einzelwerte.",
+    "B": "Die Gesamtkapazitaet verdoppelt sich automatisch.",
+    "C": "Die Gesamtkapazitaet ist kleiner als die kleinste Einzelkapazitaet.",
+    "D": "Die Kapazitaeten loeschen sich gegenseitig aus.",
+    "loesung": "C"
+  },
+  "181": {
+    "thema": "BAUTEILE",
+    "frage": "Wie berechnet sich der Gesamtwiderstand zweier parallel geschalteter Widerstaende?",
+    "A": "Rges = R1 + R2",
+    "B": "Rges = (R1 * R2) / (R1 + R2)",
+    "C": "Rges = (R1 + R2) / (R1 * R2)",
+    "D": "Rges = Wurzel(R1 * R2)",
+    "loesung": "B"
+  },
+  "182": {
+    "thema": "FERTIGUNG",
+    "frage": "Welcher Bleigehalt ist laut RoHS-Richtlinie in Standard-Loetzinn fuer kommerzielle Produkte maximal zulaessig?",
+    "A": "Maximal 0,1 Gewichtsprozent.",
+    "B": "Maximal 1,0 Gewichtsprozent.",
+    "C": "Exakt 0,00 Prozent (absolut kein Blei erlaubt).",
+    "D": "Bis zu 37% bei medizinischen Ausnahmen.",
+    "loesung": "A"
+  },
+  "183": {
+    "thema": "FERTIGUNG",
+    "frage": "Welche drei Hauptkomponenten bilden das klassische bleifreie Loetzinn (SAC-Legierung)?",
+    "A": "Zinn, Blei und Kupfer.",
+    "B": "Zinn, Wismut und Antimon.",
+    "C": "Zinn, Silber und Kupfer (SnAgCu).",
+    "D": "Zinn, Gold und Aluminium.",
+    "loesung": "C"
+  },
+  "184": {
+    "thema": "FERTIGUNG",
+    "frage": "Welche chemische Aufgabe hat das Flussmittel beim Loetvorgang?",
+    "A": "Es klebt die Bauteile vor dem Schmelzen auf der Platine fest.",
+    "B": "Es entfernt Oxidschichten auf den Metalloberflaechen und verhindert Neuoxidation beim Erwaermen.",
+    "C": "Es kuehlt die Platine ab, um Hitzeschaeden zu vermeiden.",
+    "D": "Es verringert den elektrischen Widerstand der Kupferbahnen.",
+    "loesung": "B"
+  },
+  "185": {
+    "thema": "WECHSELSTROM",
+    "frage": "Was versteht man unter der Resonanzfrequenz in einem elektrischen Schwingkreis (RLC)?",
+    "A": "Die Frequenz, bei der das Bauteil mechanisch zu vibrieren beginnt.",
+    "B": "Die Frequenz, bei der sich induktiver und kapazitiver Blindwiderstand genau aufheben.",
+    "C": "Die maximale Grenzfrequenz eines Tiefpassfilters.",
+    "D": "Die Frequenz mit dem hoechsten Oberwellenanteil.",
+    "loesung": "B"
+  },
+  "186": {
+    "thema": "WECHSELSTROM",
+    "frage": "Welchen Phasenwinkel haben Spannung und Strom im Resonanzfall eines idealen RLC-Schwingkreises?",
+    "A": "-90 Grad (rein kapazitiv).",
+    "B": "+90 Grad (rein induktiv).",
+    "C": "0 Grad (rein ohmsches Verhalten).",
+    "D": 180 Grad (Phasenumkehr).",
+    "loesung": "C"
+  },
+  "187": {
+    "thema": "MESSTECHNIK",
+    "frage": "Was misst ein niederohmiger Shunt-Widerstand im Stromkreis?",
+    "A": "Die Frequenz der Netzspannung.",
+    "B": "Einen elektrischen Strom ueber den an ihm messbaren Spannungsabfall.",
+    "C": "Den Isolationswiderstand gegen Gehaeusemasse.",
+    "D": "Ueberspannungsspitzen aus dem Stromnetz.",
+    "loesung": "B"
+  },
+  "188": {
+    "thema": "MESSTECHNIK",
+    "frage": "Welche wichtigste Eigenschaft muss ein Shunt-Widerstand fuer Praezisionsmessungen aufweisen?",
+    "A": "Einen moeglichst hohen Widerstandswert im Megaohm-Bereich.",
+    "B": "Einen extrem kleinen, temperaturstabilen Praezisions-Widerstandswert.",
+    "C": "Eine hohe Wicklungsinduktivitaet.",
+    "D": "Einen stark negativen Temperaturkoeffizienten (NTC-Verhalten).",
+    "loesung": "B"
+  },
+  "189": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Was versteht man unter einem Open-Collector-Ausgang?",
+    "A": "Einen Ausgang, der intern fest mit der Versorgungsspannung verbunden ist.",
+    "B": "Einen Ausgang, der aktiv nur nach Masse (GND) schalten kann und offen hochohmig ist.",
+    "C": "Einen Pin, der ausschliesslich analoge Spannungen ausgibt.",
+    "D": "Eine digitale Schnittstelle ohne Taktleitung.",
+    "loesung": "B"
+  },
+  "190": {
+    "thema": "DIGITALTECHNIK",
+    "frage": "Welcher externe Widerstand wird zwingend benoetigt, um einen Open-Collector-Ausgang auf einen definierten High-Pegel zu ziehen?",
+    "A": "Shunt-Widerstand.",
+    "B": "Pull-Down-Widerstand.",
+    "C": "Pull-Up-Widerstand.",
+    "D": "Abschlusswiderstand (120 Ohm).",
+    "loesung": "C"
+  },
+  "191": {
+    "thema": "BAUTEILE",
+    "frage": "Welche Diode aendert ihre interne Kapazitaet in Abhaengigkeit von der angelegten Sperrspannung?",
+    "A": "Schottky-Diode.",
+    "B": "Kapazitaetsdiode (Varaktor).",
+    "C": "Zener-Diode.",
+    "D": "Fotodiode.",
+    "loesung": "B"
+  },
+  "192": {
+    "thema": "BAUTEILE",
+    "frage": "Was versteht man unter der Sperrschichttemperatur (Junction Temperature) bei Halbleiterbauteilen?",
+    "A": "Die Temperatur des umgebenden Aluminium-Kuehlkoerpers.",
+    "B": "Die maximal zulaessige Lagertemperatur im staubfreien Magazin.",
+    "C": "Die Temperatur im inneren, aktiven Bereich des Halbleiterkristalls (pn-Uebergang).",
+    "D": "Die Temperatur, bei der das Gehaeusesilizium schmilzt.",
+    "loesung": "C"
+  },
+  "193": {
+    "thema": "SCHUTZMASSNAHMEN",
+    "frage": "Welche Schutzklasse beschreibt elektrische Geraete mit obligatorischem Schutzleiteranschluss (PE)?",
+    "A": "Schutzklasse I.",
+    "B": "Schutzklasse II.",
+    "C": "Schutzklasse III.",
+    "D": "Schutzklasse IV.",
+    "loesung": "A"
+  },
+  "194": {
+    "thema": "SCHUTZMASSNAHMEN",
+    "frage": "Welches grafische Symbol kennzeichnet elektrische Geraete der Schutzklasse II (Schutzisolierung)?",
+    "A": "Ein Dreieck mit einem Ausrufezeichen.",
+    "B": "Ein Kreis mit einem Erdungssymbol.",
+    "C": "Zwei ineinanderliegende Quadrate.",
+    "D": "Ein Blitz in einem Kreis.",
+    "loesung": "C"
+  },
+  "195": {
+    "thema": "SCHUTZMASSNAHMEN",
+    "frage": "Mit welcher Spannungsart arbeiten Geraete der Schutzklasse III (Schutzkleinspannung)?",
+    "A": "Mit einer galvanisch getrennten Spannung bis zu 400V.",
+    "B": "Mit SELV oder PELV (Sicherheitskleinspannung).",
+    "C": "Ausschliesslich mit stabilisierter Gleichspannung von genau 5,0V.",
+    "D": "Mit dreiphasigem Wechselstrom ohne Neutralleiter.",
+    "loesung": "B"
+  },
+  "196": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Wie lautet das Ohmsche Gesetz mathematisch exakt nach dem Strom I umgestellt?",
+    "A": "I = U * R",
+    "B": "I = R / U",
+    "C": "I = U / R",
+    "D": "I = P / U^2",
+    "loesung": "C"
+  },
+  "197": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Wie viel Prozent betraegt die zulaessige Toleranz bei einem Widerstand mit einem goldenen Toleranzring?",
+    "A": "1 Prozent Toleranz.",
+    "B": "2 Prozent Toleranz.",
+    "C": "5 Prozent Toleranz.",
+    "D": "10 Prozent Toleranz.",
+    "loesung": "C"
+  },
+  "198": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Welche Farbe steht beim Standard-Farbcode von Widerstaenden fuer den Ziffernwert 0?",
+    "A": "Die Farbe Schwarz.",
+    "B": "Die Farbe Braun.",
+    "C": "Die Farbe Silber.",
+    "D": "Die Farbe Weiss.",
+    "loesung": "A"
+  },
+  "199": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Welche Farbe steht beim Standard-Farbcode von Widerstaenden fuer den Ziffernwert 2?",
+    "A": "Die Farbe Braun.",
+    "B": "Die Farbe Rot.",
+    "C": "Die Farbe Orange.",
+    "D": "Die Farbe Gelb.",
+    "loesung": "B"
+  },
+  "200": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Wie lautet die offizielle SI-Einheit der elektrischen Ladung Q?",
+    "A": "Farad (F).",
+    "B": "Siemens (S).",
+    "C": "Coulomb (C) oder Amperesekunde (As).",
+    "D": "Joule (J).",
+    "loesung": "C"
+  }
+  {
+  "201": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Was gibt der spezifische Widerstand eines Materials an?",
+    "A": "Den Gesamtwiderstand einer fertigen Kabeltrommel bei Raumtemperatur.",
+    "B": "Den Widerstand eines Leiters von 1 m Laenge und 1 mm^2 Querschnitt bei 20C.",
+    "C": "Die maximale Strombelastbarkeit, bevor das Material schmilzt.",
+    "D": "Die Anzahl der freien Elektronen pro Kubikzentimeter.",
+    "loesung": "B"
+  },
+  "202": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Wie verhaelt sich die elektrische Leitfaehigkeit zum spezifischen Widerstand?",
+    "A": "Sie sind absolut identisch und nutzen nur andere Einheiten.",
+    "B": "Die Leitfaehigkeit ist der Kehrwert des spezifischen Widerstands.",
+    "C": "Sie verhalten sich exponentiell zueinander.",
+    "D": "Es gibt keinen mathematischen Zusammenhang zwischen beiden Werten.",
+    "loesung": "B"
+  },
+  "203": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Was beschreibt die Stromdichte (Formelzeichen J)?",
+    "A": "Die Masse des Kupfers im Verhaeltnis zum fliessenden Strom.",
+    "B": "Den elektrischen Strom pro Querschnittsflaeche (J = I / A).",
+    "C": "Die Anzahl der Maschen pro Quadratzentimeter Platine.",
+    "D": "Die maximale Spannung, die eine Isolation pro Millimeter aushaelt.",
+    "loesung": "B"
+  },
+  "204": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Was besagt die Lorentzkraft?",
+    "A": "Die Kraft, die durch Erwaermung eines Leiters entsteht.",
+    "B": "Die Anziehungskraft zwischen zwei statischen, unbewegten Ladungen.",
+    "C": "Die Kraft, die auf eine bewegte elektrische Ladung in einem Magnetfeld wirkt.",
+    "D": "Die mechanische Haltekraft eines Permanentmagneten.",
+    "loesung": "C"
+  },
+  "205": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Wie nennt man den Widerstand im magnetischen Kreis?",
+    "A": "Induktiver Blindwiderstand.",
+    "B": "Impedanz.",
+    "C": "Magnetischer Widerstand (Reluktanz).",
+    "D": "Wirbelstrom-Koeffizient.",
+    "loesung": "C"
+  },
+  "206": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Welches Formelzeichen und welche Einheit hat die magnetische Flussdichte?",
+    "A": "Formelzeichen Phi, Einheit Weber (Wb).",
+    "B": "Formelzeichen H, Einheit Ampere pro Meter (A/m).",
+    "C": "Formelzeichen B, Einheit Tesla (T).",
+    "D": "Formelzeichen L, Einheit Henry (H).",
+    "loesung": "C"
+  },
+  "207": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Was bewirkt ein Material mit hoher Permeabilitaet in einer Spule?",
+    "A": "Es blockiert den Gleichstromfluss vollstaendig.",
+    "B": "Es verstaerkt die magnetische Flussdichte extrem (z. B. Eisenkern).",
+    "C": "Es verringert die Induktivitaet der Spule.",
+    "D": "Es wandelt das Magnetfeld in statische Elektrizitaet um.",
+    "loesung": "B"
+  },
+  "208": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Was versteht man unter dem Skin-Effekt?",
+    "A": "Das Abstrahlen von Waerme ueber das Plastikgehaeuse.",
+    "B": "Die Verdraengung von hochfrequentem Wechselstrom an die Oberflaeche eines Leiters.",
+    "C": "Das Durchbrechen von Spannung durch eine zu duenne Isolierung.",
+    "D": "Die statische Aufladung der menschlichen Haut in der Werkstatt.",
+    "loesung": "B"
+  },
+  "209": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Wie viel Coulomb (As) entspricht einer Amperestunde (Ah)?",
+    "A": "Genau 60 Coulomb.",
+    "B": "Genau 1000 Coulomb.",
+    "C": "Genau 3600 Coulomb (1 A * 3600 s).",
+    "D": "Es kommt auf die Spannung des Akkus an.",
+    "loesung": "C"
+  },
+  "210": {
+    "thema": "GRUNDLAGEN",
+    "frage": "Was ist der gravierende Unterschied zwischen Gleich- und Wechselstrom?",
+    "A": "Gleichstrom transportiert mehr Leistung als Wechselstrom.",
+    "B": "Gleichstrom fliesst in eine Richtung, Wechselstrom aendert periodisch seine Richtung und Polaritaet.",
+    "C": "Wechselstrom fliesst nur in Eisenbahnanlagen und Hochspannungsleitungen.",
+    "D": "Gleichstrom kann man nicht mit einem Transformator erzeugen.",
+    "loesung": "B"
+  },
+  "211": {
+    "thema": "BAUTEILE",
+    "frage": "Welchen grossen Vorteil hat eine Schottky-Diode?",
+    "A": "Eine extrem hohe Sperrspannung von ueber 10 Kilovolt.",
+    "B": "Eine sehr niedrige Schwellenspannung (ca. 0,2 - 0,3 V) und sehr schnelle Schaltzeiten.",
+    "C": "Dass sie im Dunkeln von alleine zu leuchten beginnt.",
+    "D": "Sie verhaelt sich wie ein bidirektionaler Kondensator.",
+    "loesung": "B"
+  },
+  "212": {
+    "thema": "BAUTEILE",
+    "frage": "Wofuer wird ein Triac hauptsaechlich verwendet?",
+    "A": "Zum Glätten von Restwelligkeit in DC-Netzteilen.",
+    "B": "Zum kontaktlosen Schalten oder Dimmen von Wechselspannung (Zweirichtungs-Thyristor).",
+    "C": "Als optischer Sensor fuer Infrarot-Lichtschranken.",
+    "D": "Zur Spannungsstabilisierung im Operationsverstaerker.",
+    "loesung": "B"
+  },
+  "213": {
+    "thema": "BAUTEILE",
+    "frage": "Welches Bauteil nutzt man haeufig, um einen Triac sauber zu zuenden?",
+    "A": "Einen Elektrolytkondensator.",
+    "B": "Eine Freilaufdiode.",
+    "C": "Einen Diac (Zweirichtungs-Diode).",
+    "D": "Einen Optokoppler mit Logikausgang.",
+    "loesung": "C"
+  },
+  "214": {
+    "thema": "BAUTEILE",
+    "frage": "In welcher Richtung wird eine Photodiode als Lichtsensor typischerweise betrieben?",
+    "A": "Ausschliesslich in Durchlassrichtung.",
+    "B": "In Sperrrichtung (Nutzen des lichtabhaengigen Sperrstroms).",
+    "C": "Mit reiner Wechselspannung ohne Massebezug.",
+    "D": "Sie benoetigt ueberhaupt keine externe Spannung.",
+    "loesung": "B"
+  },
+  "215": {
+    "thema": "BAUTEILE",
+    "frage": "Wo liegt der wesentliche Unterschied zwischen einem Relais und einem Schuetz?",
+    "A": "Relais arbeiten mit Wechselstrom, Schuetze nur mit Gleichstrom.",
+    "B": "Ein Schuetz ist fuer das Schalten von hohen Leistungen und Laststroemen gebaut.",
+    "C": "Relais haben keine mechanisch beweglichen Kontakte.",
+    "D": "Schuetze haben eine viel kleinere Spule als Relais.",
+    "loesung": "B"
+  },
+  "216": {
+    "thema": "BAUTEILE",
+    "frage": "Was ist ein Reed-Relais?",
+    "A": "Ein Relais, das bei Erwaermung automatisch oeffnet.",
+    "B": "Ein Relais, dessen Kontakte in einem Glasroehrchen liegen und durch ein externes Magnetfeld geschlossen werden.",
+    "C": "Ein elektronischer Schalter fuer mikroprozessorgesteuerte Hochfrequenzsignale.",
+    "D": "Ein Relais, das mit fluessigem Quecksilber arbeitet.",
+    "loesung": "B"
+  },
+  "217": {
+    "thema": "BAUTEILE",
+    "frage": "Wofuer werden Superkondensatoren (Goldcaps) haeufig eingesetzt?",
+    "A": "Als Hochfrequenzfilter in Funkempfaengern.",
+    "B": "Als kurzzeitiger Energiespeicher oder Pufferbatterie-Ersatz fuer Echtzeituhren (RTC).",
+    "C": "Zur Blindleistungskompensation von Motoren.",
+    "D": "Als Vorwiderstand fuer Hochleistungs-LEDs.",
+    "loesung": "B"
+  },
+  "218": {
+    "thema": "BAUTEILE",
+    "frage": "Welche Aufgabe hat ein Varistor (VDR) im Netzteil?",
+    "A": "Die Frequenz bei Lastwechseln zu stabilisieren.",
+    "B": "Ueberspannungen abzuleiten (sein Widerstand sinkt bei hoher Spannung drastisch).",
+    "C": "Gleichstrom in Wechselstrom umzuwandeln.",
+    "D": "Als Temperatursensor fuer den Luefter zu dienen.",
+    "loesung": "B"
+  },
+  "219": {
+    "thema": "BAUTEILE",
+    "frage": "Welches Bauteil verringert seinen Widerstand, wenn die Temperatur steigt?",
+    "A": "Der PTC-Widerstand.",
+    "B": "Der LDR.",
+    "C": "Der NTC (Heissleiter).",
+    "D": "Der Shunt-Widerstand.",
+    "loesung": "C"
+  },
+  "220": {
+    "thema": "BAUTEILE",
+    "frage": "Was unterscheidet die Ausloesecharakteristik von feinen Schmelzsicherungen?",
+    "A": "Sie werden nach Gehaeusefarbe sortiert.",
+    "B": "Sie werden in flink (F), mittel traege (M) und traege (T) unterteilt.",
+    "C": "Es gibt nur Wechselstrom- und Gleichstromsicherungen.",
+    "D": "Der maximale Innendruck, den das Glasrohr aushaelt.",
+    "loesung": "B"
+  },
+  "221": {
+    "thema": "MESSTECHNIK",
+    "frage": "Was bewirkt ein 10:1 Tastkopf am Oszilloskop?",
+    "A": "Er erhoeht die gemessene Spannung um das Zehnfache.",
+    "B": "Er daempft das Signal um den Faktor 10 und erhoeht den Eingangswiderstand.",
+    "C": "Er verlaengert die Aufzeichnungsdauer um das Zehnfache.",
+    "D": "Er wandelt das analoge Signal direkt in ein digitales Signal um.",
+    "loesung": "B"
+  },
+  "222": {
+    "thema": "MESSTECHNIK",
+    "frage": "Was macht die Triggerung bei einem Oszilloskop?",
+    "A": "Sie schuetzt das Geraet vor gefährlicher Ueberlastung.",
+    "B": "Sie sorgt fuer ein stehendes Bild, indem die Aufzeichnung immer beim gleichen Signalpegel startet.",
+    "C": "Sie schaltet automatisch zwischen Kanal 1 und Kanal 2 hin und her.",
+    "D": "Sie berechnet den Effektivwert der Spannung.",
+    "loesung": "B"
+  },
+  "223": {
+    "thema": "MESSTECHNIK",
+    "frage": "Was ist der absolute Messfehler?",
+    "A": "Der Fehler, der durch ein komplett defektes Geraet entsteht.",
+    "B": "Der prozentuale Fehler bezogen auf den Skalenendwert.",
+    "C": "Die Differenz zwischen gemessenem Wert und wahrem Wert (mit Maßeinheit).",
+    "D": "Ein Fehler, den man rechnerisch nicht korrigieren kann.",
+    "loesung": "C"
+  },
+  "224": {
+    "thema": "MESSTECHNIK",
+    "frage": "Was ist der relative Messfehler?",
+    "A": "Der Fehler, den Verwandte beim Ablesen machen.",
+    "B": "Der prozentuale Fehler bezogen auf den gemessenen oder wahren Wert.",
+    "C": "Der Fehler, der durch die Umgebungstemperatur entsteht.",
+    "D": "Die Ungenauigkeit der Messleitungen in Ohm.",
+    "loesung": "B"
+  },
+  "225": {
+    "thema": "MESSTECHNIK",
+    "frage": "Wie vermeidet man den Parallaxefehler bei analogen Messgeraeten?",
+    "A": "Indem man das Geraet vor der Messung genau waagerecht hinlegt.",
+    "B": "Indem man senkrecht von oben auf den Zeiger schaut (oft unterstuetzt durch einen Spiegel auf der Skala).",
+    "C": "Durch Verwenden von vergoldeten Messspitzen.",
+    "D": "Indem man den Zeiger vor der Messung mechanisch auf Null stellt.",
+    "loesung": "B"
+  }
 }
+}
+
+
+
+
+
+
+
+  
+
