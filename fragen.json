@@ -226,7 +226,7 @@
     "C": "Weil das Ohmmeter selbst 230V erzeugt.",
     "D": "Die Messkabel koennten schmelzen.",
     "loesung": "B"
-  }
+  },
   {
   "26": {
     "thema": "MESSTECHNIK",
@@ -452,7 +452,7 @@
     "C": "Typ B.",
     "D": "Typ F.",
     "loesung": "C"
-  }
+  },
   {
   "51": {
     "thema": "VDE & SICHERHEIT",
@@ -678,7 +678,7 @@
     "C": "System Control Line.",
     "D": "Synchronous Clear.",
     "loesung": "B"
-  }
+  },
   {
   "76": {
     "thema": "MIKROCONTROLLER",
@@ -904,7 +904,7 @@
     "C": "Die optische Anzeige der anliegenden Betriebsspannung.",
     "D": "Das Schalten von hohen Wechselstromlasten mittels Laser.",
     "loesung": "B"
-  }
+  },
   {
   "101": {
     "thema": "SCHUTZMASSNAHMEN",
